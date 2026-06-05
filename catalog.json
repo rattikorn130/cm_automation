@@ -4692,46 +4692,42 @@
       "url": "https://www.kishugiken.co.jp/ew/product/ccs3000l.html",
       "title": "",
       "img": "https://www.kishugiken.co.jp/ew/images/product/ccs3000l/catalog_image.jpg",
-      "cat": "Inkjet"
-       },
-            "specs": [
+      "cat": "Inkjet",
+      "specs": [
         [
           "Model",
-          "FXJ-423"
-        ],
-        [
-          "Table top height",
-          "580-780mm"
-        ],
-        [
-          "Conveyors speed",
-          "0-20m/min"
-        ],
-        [
-          "Suitable carton sizes",
-          "L150-∞*W150-400*H240-600mm (Subject to actual carton specifications）"
-        ],
-        [
-          "Suitable tape sizes",
-          "W48-75mm"
-        ],
-        [
-          "Voltage",
-          "220V．50HZ single phase"
+          "CCS3000L"
         ],
         [
           "Power",
-          "0.24kw"
+          "380V 50/60HZ 3P 10KW"
+        ],
+        [
+          "Air pressure",
+          "0.5-0.7Mpa"
+        ],
+        [
+          "Packing speed",
+          "20-25cases/min"
         ],
         [
           "Machine size",
-          "L1060*W850*H1500mm (excluding front and rear rollers)"
+          "L6800*W2725*H2000mm"
         ],
         [
           "Machine weight",
-          "120kg"
+          "3000kg"
+        ],
+        [
+          "Carton size",
+          "L200-500*W150-500*H100-300mm"
+        ],
+        [
+          "Glue solidify time",
+          "2-3s"
         ]
       ]
     },
+    }
   }
 }
