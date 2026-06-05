@@ -4686,6 +4686,51 @@
       "title": "",
       "img": "https://www.yupack.com/data/thumb/res/en/20250714/2fa9d70764061495.jpg_20250714113326_478x328.jpg",
       "cat": "conv"
-    }
+    },
+    "2309": {
+      "id": "2309",
+      "url": "https://www.kishugiken.co.jp/ew/product/ccs3000l.html",
+      "title": "",
+      "img": "https://www.kishugiken.co.jp/ew/images/product/ccs3000l/catalog_image.jpg",
+      "cat": "Inkjet"
+            "specs": [
+        [
+          "Model",
+          "FXJ-423"
+        ],
+        [
+          "Table top height",
+          "580-780mm"
+        ],
+        [
+          "Conveyors speed",
+          "0-20m/min"
+        ],
+        [
+          "Suitable carton sizes",
+          "L150-∞*W150-400*H240-600mm (Subject to actual carton specifications）"
+        ],
+        [
+          "Suitable tape sizes",
+          "W48-75mm"
+        ],
+        [
+          "Voltage",
+          "220V．50HZ single phase"
+        ],
+        [
+          "Power",
+          "0.24kw"
+        ],
+        [
+          "Machine size",
+          "L1060*W850*H1500mm (excluding front and rear rollers)"
+        ],
+        [
+          "Machine weight",
+          "120kg"
+        ]
+      ]
+    },
   }
 }
