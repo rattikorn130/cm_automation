@@ -1,0 +1,4691 @@
+{
+  "version": 2,
+  "exportedAt": "2026-06-05T05:36:54.112Z",
+  "currency": "THB",
+  "prices": {
+    "121": "250000"
+  },
+  "items": {
+    "49": {
+      "id": "49",
+      "url": "https://www.yupack.com/49.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20220728/5885739ac56fb86f.jpg_20220728162920_478x328.jpg",
+      "cat": "erect",
+      "specs": [
+        [
+          "Voltage",
+          "380v 50hz 3p"
+        ],
+        [
+          "Power",
+          "2kw"
+        ],
+        [
+          "Speed",
+          "20-25cartons/min"
+        ],
+        [
+          "Table height",
+          "950mm"
+        ],
+        [
+          "Air",
+          "5kg/cm²"
+        ],
+        [
+          "Application",
+          "L+W≤900mm;W≤400mm H+1/2W≤530mm;1/2W≤200mm"
+        ],
+        [
+          "Tape",
+          "W48-75mm"
+        ],
+        [
+          "Machine size",
+          "L2372*W1210*H1820mm"
+        ],
+        [
+          "Machine weight",
+          "1000kg"
+        ]
+      ]
+    },
+    "67": {
+      "id": "67",
+      "url": "https://www.yupack.com/67.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20220413/9ed795f0c6767f1b.jpg_20220413145159_478x328.jpg",
+      "cat": "pack",
+      "specs": [
+        [
+          "Model",
+          "LGB-20Y"
+        ],
+        [
+          "Power",
+          "380V 50/60HZ 3P 10KW"
+        ],
+        [
+          "Air pressure",
+          "0.5-0.7Mpa"
+        ],
+        [
+          "Packing speed",
+          "20-25cases/min"
+        ],
+        [
+          "Machine size",
+          "L6800*W2725*H2000mm"
+        ],
+        [
+          "Machine weight",
+          "3000kg"
+        ],
+        [
+          "Carton size",
+          "L200-500*W150-500*H100-300mm"
+        ],
+        [
+          "Glue solidify time",
+          "2-3s"
+        ]
+      ]
+    },
+    "69": {
+      "id": "69",
+      "url": "https://www.yupack.com/69.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20220413/44974bd79e654d02.jpg_20220413145104_478x328.jpg",
+      "cat": "pack",
+      "specs": [
+        [
+          "Model",
+          "LZX-18F"
+        ],
+        [
+          "Power",
+          "380V 50/60HZ 3P 8.8KW"
+        ],
+        [
+          "Air pressure",
+          "6kg/cm²/450ml/min"
+        ],
+        [
+          "Packing speed",
+          "≤12cases/min"
+        ],
+        [
+          "Machine size",
+          "L5800*W1266*H1850mm"
+        ],
+        [
+          "Machine weight",
+          "1500kg"
+        ],
+        [
+          "Carton size",
+          "L150-410*W150-300*H150-500mm"
+        ],
+        [
+          "Exportation height",
+          "330mm"
+        ]
+      ]
+    },
+    "70": {
+      "id": "70",
+      "url": "https://www.yupack.com/70.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20220413/2cc14f60fb88e341.jpg_20220413145042_478x328.jpg",
+      "cat": "pack",
+      "specs": [
+        [
+          "Model",
+          "ZK-DR"
+        ],
+        [
+          "Power",
+          "380V 50/60HZ 3P 8.8KW"
+        ],
+        [
+          "Air pressure",
+          "0.6-0.8Mpa"
+        ],
+        [
+          "Packing speed",
+          "50-55bag"
+        ],
+        [
+          "Machine size",
+          "L1680*W1680*H2200mm"
+        ],
+        [
+          "Machine weight",
+          "1500kg"
+        ]
+      ]
+    },
+    "71": {
+      "id": "71",
+      "url": "https://www.yupack.com/71.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20220413/96eb0a8b18c0b6c6.jpg_20220413144948_478x328.jpg",
+      "cat": "pack",
+      "specs": [
+        [
+          "Model",
+          "CZX12A-200"
+        ],
+        [
+          "Power",
+          "380V 50/60HZ 3P 5KW"
+        ],
+        [
+          "Air pressure",
+          "0.6-0.8Mpa"
+        ],
+        [
+          "Packing speed",
+          "8-12cartons/min50-55bag"
+        ],
+        [
+          "Machine size",
+          "L4600*W1820*H2200mm"
+        ],
+        [
+          "Machine weight",
+          "1500kg"
+        ],
+        [
+          "Carton size",
+          "L200-500*W180-400*H50-250mm"
+        ]
+      ]
+    },
+    "80": {
+      "id": "80",
+      "url": "https://www.yupack.com/80.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20260424/8e3ed2cb53e325b2.jpg_20260424143704_478x328.jpg",
+      "cat": "shrink",
+      "specs": [
+        [
+          "Model",
+          "SM-1540"
+        ],
+        [
+          "Machine size（mm）",
+          "1543*494*1467"
+        ],
+        [
+          "Tunnel size（mm）",
+          "1000*150*400"
+        ],
+        [
+          "Max packing sizeDiameter*height（mm）",
+          "φ120*400"
+        ],
+        [
+          "Packing speed（件/小时）",
+          "8000-12000"
+        ],
+        [
+          "Net weight（kg）",
+          "130"
+        ],
+        [
+          "power（KW）",
+          "3.5"
+        ],
+        [
+          "Voltage",
+          "3PH 380V 50HZ"
+        ],
+        [
+          "Shrink tunnel",
+          "POF/PVC/PET"
+        ]
+      ]
+    },
+    "82": {
+      "id": "82",
+      "url": "https://www.yupack.com/82.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20220413/_0004_8-1_4546cae2.jpg_20220413161041_478x328.jpg",
+      "cat": "shrink",
+      "specs": [
+        [
+          "Model",
+          "SM-1230"
+        ],
+        [
+          "Machine size（mm）",
+          "1804*600*1560"
+        ],
+        [
+          "Tunnel size（mm）",
+          "1500*120*300"
+        ],
+        [
+          "Max packing sizediameter*height（mm）",
+          "φ100*280"
+        ],
+        [
+          "Packing speed（pc/hour）",
+          "8000-12000"
+        ],
+        [
+          "Net weight（kg）",
+          "210"
+        ],
+        [
+          "power（KW）",
+          "15"
+        ],
+        [
+          "Voltage",
+          "3PH 380V 50HZ"
+        ],
+        [
+          "Shrink tunnel",
+          "POF/PVC/PET"
+        ]
+      ]
+    },
+    "83": {
+      "id": "83",
+      "url": "https://www.yupack.com/83.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20220413/_0007_9-1_a629d14d.jpg_20220413161000_478x328.jpg",
+      "cat": "shrink",
+      "specs": [
+        [
+          "Model",
+          "SM5030LX"
+        ],
+        [
+          "Machine size（mm）",
+          "1800*990*1300"
+        ],
+        [
+          "Tunnel size（mm）",
+          "1500*500*300"
+        ],
+        [
+          "Max packing size（mm）",
+          "1300*400*250"
+        ],
+        [
+          "Conveyor speed（m/min）",
+          "0-20"
+        ],
+        [
+          "Net weight（kg）",
+          "650"
+        ],
+        [
+          "power（KW）",
+          "16"
+        ],
+        [
+          "Voltage",
+          "3PH 380V 50HZ"
+        ],
+        [
+          "Shrink film",
+          "POF"
+        ]
+      ]
+    },
+    "84": {
+      "id": "84",
+      "url": "https://www.yupack.com/84.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20250317/4_ef1d9094.jpg_20250317104205_478x328.jpg",
+      "cat": "shrink",
+      "specs": [
+        [
+          "Model",
+          "BSE6040A"
+        ],
+        [
+          "Voltage",
+          "380V 50HZ"
+        ],
+        [
+          "power（KW）",
+          "24"
+        ],
+        [
+          "Packing speed（pc/min）",
+          "25-30"
+        ],
+        [
+          "Tunnel size（mm）",
+          "1800*600*400"
+        ],
+        [
+          "Max packing size（mm）",
+          "1300*400*300"
+        ],
+        [
+          "temperature（℃）",
+          "0-400"
+        ],
+        [
+          "Machine size（mm）",
+          "2800*900*1690"
+        ],
+        [
+          "Table height（mm）",
+          "850±50"
+        ],
+        [
+          "Net weight（kg）",
+          "600"
+        ],
+        [
+          "Shrink tunnel",
+          "PE"
+        ]
+      ]
+    },
+    "85": {
+      "id": "85",
+      "url": "https://www.yupack.com/85.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20220413/_0005_10-1_487cd129.jpg_20220413160854_478x328.jpg",
+      "cat": "shrink",
+      "specs": [
+        [
+          "Model",
+          "BSD4525A"
+        ],
+        [
+          "Voltage",
+          "3PH 38OV 50HZ"
+        ],
+        [
+          "power（KW）",
+          "10"
+        ],
+        [
+          "Packing speed（pc/hour）",
+          "500-800"
+        ],
+        [
+          "Max packing size（mm）",
+          "350*200"
+        ],
+        [
+          "Machine size(mm)",
+          "1200*690*1200"
+        ],
+        [
+          "Tunnel size(mm)",
+          "1000*450*250"
+        ],
+        [
+          "Net weight(kg)",
+          "120"
+        ],
+        [
+          "Shrink film",
+          "POF/PVC/PP"
+        ]
+      ]
+    },
+    "86": {
+      "id": "86",
+      "url": "https://www.yupack.com/86.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20220413/5735f7ee03c58d1d.jpg_20220413160832_478x328.jpg",
+      "cat": "shrink",
+      "specs": [
+        [
+          "Model",
+          "FM5540 FM5540A FM8060"
+        ],
+        [
+          "Voltage",
+          "1PH 220V 50HZ 1PH 220V 50HZ 1PH 220V 50HZ"
+        ],
+        [
+          "power（KW）",
+          "4.8 5 6.5"
+        ],
+        [
+          "packing speed（pc/hour）",
+          "500-800 800-1000 500-800"
+        ],
+        [
+          "Max sealing size（mm ）",
+          "130 140 250"
+        ],
+        [
+          "Shrink film",
+          "POF/PVC POF/PVC POF/PVC"
+        ]
+      ]
+    },
+    "87": {
+      "id": "87",
+      "url": "https://www.yupack.com/87.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20220413/3655a0f555bf86d3.jpg_20220413160745_478x328.jpg",
+      "cat": "shrink",
+      "specs": [
+        [
+          "Model",
+          "FQL-450A AP-1622AP AP-2028A AP-2028AP AP-3040A AP-3030AP AP-4048AP"
+        ],
+        [
+          "Max sealingsize（mm）",
+          "550*400 550*400 700*500 700*500 1000*750 1000*750 1200*1000"
+        ],
+        [
+          "Voltage",
+          "1PH 220V 50HZ 1PH 220V 50HZ 1PH 220V 50HZ 1PH 220V 50HZ 1PH 220V 50HZ 1PH 220V 50HZ 1PH 220V 50HZ"
+        ],
+        [
+          "Air source",
+          " 0.6MPA  0.6MPA  0.6MPA 0.6MPA"
+        ],
+        [
+          "Machine size(mm)",
+          "1600*775*1000 1600*775*1000 1900*875*1000 1900*875*1000 2500*1125*1000 2500*1125*1000 2910*1300*1100"
+        ],
+        [
+          "Machine weight（kg）",
+          "145 150 200 205 280 285 460"
+        ],
+        [
+          "Shrink film",
+          "      "
+        ]
+      ]
+    },
+    "88": {
+      "id": "88",
+      "url": "https://www.yupack.com/88.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20250317/3_210061c5.jpg_20250317104113_478x328.jpg",
+      "cat": "shrink",
+      "specs": [
+        [
+          "Model",
+          "FL5545TBD SM5030LX"
+        ],
+        [
+          "Machine size（mm）",
+          "1850*1350*1300 1800*990*1300"
+        ],
+        [
+          "Tunnel size（mm）",
+          "/ 1500*500*300"
+        ],
+        [
+          "Max packing size:length+height（mm）height＜180",
+          "≤500 1300*400*250"
+        ],
+        [
+          "Max packing size:width+height（mm）height＜180",
+          "≤400 /"
+        ],
+        [
+          "Sealing knife size:length/width（mm）",
+          "550/450 /"
+        ],
+        [
+          "Packing speed（pc/min）",
+          "20-35 /"
+        ],
+        [
+          "Conveyor（m/min）",
+          "/ 0-20"
+        ],
+        [
+          "Net weight（kg）",
+          "800 650"
+        ],
+        [
+          "Power（KW）",
+          "2.8 16"
+        ],
+        [
+          "Voltage",
+          "220V 1PH 50HZ 3PH 380V 50HZ"
+        ],
+        [
+          "External air source（kg/cm2）",
+          "6-8 /"
+        ],
+        [
+          "Shrink film",
+          "POF POF"
+        ]
+      ]
+    },
+    "89": {
+      "id": "89",
+      "url": "https://www.yupack.com/89.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20220413/_0006_16-1_8f5714ad.jpg_20220413160610_478x328.jpg",
+      "cat": "shrink",
+      "specs": [
+        [
+          "Model",
+          "FL5545TBA SM4525"
+        ],
+        [
+          "Machine size（mm）",
+          "1685*828*1480 1300*700*1465"
+        ],
+        [
+          "Max packing size:length+height（mm）height＜130",
+          "≤500 700*350*200"
+        ],
+        [
+          "Max packing size:width+heught（mm）height＜130",
+          "≤430 /"
+        ],
+        [
+          "Sealing knife size length/width（mm）",
+          "550/450 /"
+        ],
+        [
+          "Packing size（pc/min）",
+          "15-25 /"
+        ],
+        [
+          "Conveyor speed（m/min）",
+          "/ 0-15"
+        ],
+        [
+          "Net weight（kg）",
+          "225 260"
+        ],
+        [
+          "power（KW）",
+          "2.5 9"
+        ],
+        [
+          "Voltage",
+          "220V 1PH 50HZ 3PH 380V 50HZ"
+        ],
+        [
+          "External air source （kg/cm2）",
+          "6-8 /"
+        ],
+        [
+          "Shrink film",
+          "POF POF"
+        ]
+      ]
+    },
+    "90": {
+      "id": "90",
+      "url": "https://www.yupack.com/90.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20220413/_0008_14-1_020af9db.jpg_20220413160514_478x328.jpg",
+      "cat": "shrink",
+      "specs": [
+        [
+          "Model",
+          "FL5545TBH SM5030LX"
+        ],
+        [
+          "Machine size（mm）",
+          "2040*1480*1300 1800*990*1300"
+        ],
+        [
+          "Tunnel size（mm）",
+          "/ 1500*500*300"
+        ],
+        [
+          "Max packing size:length（mm）",
+          "No limited 1300*400*250"
+        ],
+        [
+          "Maximum packing size:width+height （mm）",
+          "≤400 /"
+        ],
+        [
+          "Packing speed（pc/min）",
+          "40-60 /"
+        ],
+        [
+          "Conveyor speed（m/min）",
+          "/ 0-20"
+        ],
+        [
+          "Net weight（kg）",
+          "800 650"
+        ],
+        [
+          "Power（KW）",
+          "3 16"
+        ],
+        [
+          "Voltage",
+          "1PH 220V 50HZ 3PH 380V 50HZ"
+        ],
+        [
+          "External air source （kg/cm2）",
+          "6-8 /"
+        ],
+        [
+          "Shrink tunnel",
+          "POF POF"
+        ]
+      ]
+    },
+    "91": {
+      "id": "91",
+      "url": "https://www.yupack.com/91.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20220413/_0008_15-1_367c23e0.jpg_20220413160222_478x328.jpg",
+      "cat": "shrink",
+      "specs": [
+        [
+          "Model",
+          "FL5545TBC SM5030"
+        ],
+        [
+          "Machine size（mm）",
+          "1680*975*1500 1672*770*1560"
+        ],
+        [
+          "Tunnel size（mm）",
+          "/ 1300*500*300"
+        ],
+        [
+          "Max packing size :length（mm）",
+          "No limited 1000*400*250"
+        ],
+        [
+          "Maximum packing size:width+height （mm）",
+          "≤430 /"
+        ],
+        [
+          "Packing speed（pc/min）",
+          "20-40 /"
+        ],
+        [
+          "Conveyor speed（m/min）",
+          "/ 0-15"
+        ],
+        [
+          "Net weight（kg）",
+          "290 360"
+        ],
+        [
+          "Power（KW）",
+          "1.8 12"
+        ],
+        [
+          "Voltage",
+          "3PH 380V 50HZ 3PH 380V 50HZ"
+        ],
+        [
+          "External air source（kg/cm2）",
+          "6-8 /"
+        ],
+        [
+          "Shrink film",
+          "POF POF"
+        ]
+      ]
+    },
+    "92": {
+      "id": "92",
+      "url": "https://www.yupack.com/92.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20220413/5a567cb35554bb97.jpg_20220413155951_478x328.jpg",
+      "cat": "shrink",
+      "specs": [
+        [
+          "Model",
+          "ST6040Q BSE6040A"
+        ],
+        [
+          "Voltage",
+          "380V 50HZ 380V 50HZ"
+        ],
+        [
+          "power（KW）",
+          "1 24"
+        ],
+        [
+          "Max packing speed（pc/min）",
+          "5-8 25-30"
+        ],
+        [
+          "Tunnel size（mm）",
+          "/ 1800*600*400"
+        ],
+        [
+          "Max packing size（mm）",
+          "500*500*300 1300*400*300"
+        ],
+        [
+          "Sealing knife length（mm）",
+          "700 /"
+        ],
+        [
+          "temperature（℃）",
+          "0-200 0-400"
+        ],
+        [
+          "Machine size（mm）",
+          "1129*1305*1991 2800*900*1690"
+        ],
+        [
+          "Table height（mm）",
+          "850±50 850±50"
+        ],
+        [
+          "Net weight（kg）",
+          "300 600"
+        ],
+        [
+          "External air source（kg/cm2）",
+          "6-8 /"
+        ],
+        [
+          "Shrink film",
+          "PE PE"
+        ]
+      ]
+    },
+    "93": {
+      "id": "93",
+      "url": "https://www.yupack.com/93.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20220413/f53a1b8ca008b139.jpg_20220413155836_478x328.jpg",
+      "cat": "shrink",
+      "specs": [
+        [
+          "Model",
+          "ST6040Z BSE6040A"
+        ],
+        [
+          "Voltage",
+          "380V 50HZ 380V 50HZ"
+        ],
+        [
+          "power（KW）",
+          "2 24"
+        ],
+        [
+          "Max packing speed（pc/min）",
+          "8-22 25-30"
+        ],
+        [
+          "Tunnel size（mm）",
+          "/ 1800*600*400"
+        ],
+        [
+          "Max packing size（mm）",
+          "L不限*500*300 1300*400*300"
+        ],
+        [
+          "Sealing knife length（mm）",
+          "700 /"
+        ],
+        [
+          "temperature（℃）",
+          "0-200 0-400"
+        ],
+        [
+          "Machine size（mm）",
+          "1818*1311*2132 2800*900*1690"
+        ],
+        [
+          "Table height（mm）",
+          "850±50 850±50"
+        ],
+        [
+          "Net weight （kg）",
+          "500 600"
+        ],
+        [
+          "External air source （kg/cm2）",
+          "6-8 /"
+        ],
+        [
+          "Shrink film",
+          "PE PE"
+        ]
+      ]
+    },
+    "94": {
+      "id": "94",
+      "url": "https://www.yupack.com/94.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20220413/7399c45ea42f35d4.jpg_20220413155751_478x328.jpg",
+      "cat": "shrink",
+      "specs": [
+        [
+          "Model",
+          "ST6040A BSE6040A"
+        ],
+        [
+          "Voltage",
+          "380V 50HZ 380V 50HZ"
+        ],
+        [
+          "Power （KW）",
+          "2 24"
+        ],
+        [
+          "Packing speed （pc/min）",
+          "6-14 25-30"
+        ],
+        [
+          "Tunnel size（mm）",
+          "/ 1800*600*400"
+        ],
+        [
+          "Maximum packing size （mm）",
+          "/ 1300*400*300"
+        ],
+        [
+          "Sealing knife length（mm）",
+          "700 /"
+        ],
+        [
+          "Temperature （℃）",
+          "0-200 0-400"
+        ],
+        [
+          "Machine size （mm）",
+          "1384*2716*1991 2800*900*1690"
+        ],
+        [
+          "Table height （mm）",
+          "850±50 850±50"
+        ],
+        [
+          "Net weight （kg）",
+          "490 600"
+        ],
+        [
+          "External air source （kg/cm2）",
+          "6-8 /"
+        ],
+        [
+          "Shrink film",
+          "PE PE"
+        ]
+      ]
+    },
+    "96": {
+      "id": "96",
+      "url": "https://www.yupack.com/96.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20240422/c81d11ff9cea0d39.jpg_20240422130735_478x328.jpg",
+      "cat": "pallet",
+      "specs": [
+        [
+          "Model",
+          "YPK-LMD20"
+        ],
+        [
+          "Power supply",
+          "3Phase，380V, 50/60HZ,12.5KW"
+        ],
+        [
+          "Air pressure",
+          "0.5-0.7Mpa"
+        ],
+        [
+          "Robot brand",
+          "ABB/ESTUN/KUKA"
+        ],
+        [
+          "Packing speed",
+          "2.5beats/min"
+        ]
+      ]
+    },
+    "97": {
+      "id": "97",
+      "url": "https://www.yupack.com/97.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20220413/_0000_3_c827ec4e.jpg_20220413161550_478x328.jpg",
+      "cat": "pallet",
+      "specs": [
+        [
+          "Model",
+          "YPK-LMD20"
+        ],
+        [
+          "Power supply",
+          "3Phase，380V, 50/60HZ,12.5KW"
+        ],
+        [
+          "Air pressure",
+          "0.5-0.7Mpa"
+        ],
+        [
+          "Machine size",
+          "L7900*W5150*H3750mm"
+        ],
+        [
+          "Packing speed",
+          "2.5beats/min"
+        ],
+        [
+          "Stacking height",
+          "L1200*W1000-1200*H1800"
+        ]
+      ]
+    },
+    "98": {
+      "id": "98",
+      "url": "https://www.yupack.com/98.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20220413/44232_1bb40c56.jpg_20220413161529_478x328.jpg",
+      "cat": "pallet",
+      "specs": [
+        [
+          "Model",
+          "YPK-JMD20"
+        ],
+        [
+          "Power supply",
+          "3Phase，380V, 50/60HZ,5KW"
+        ],
+        [
+          "Air pressure",
+          "0.5-0.7Mpa"
+        ],
+        [
+          "Machine size",
+          "R2000*H4000mm"
+        ],
+        [
+          "Mechanical arm burden",
+          "＜100kg"
+        ],
+        [
+          "Pallet size",
+          "1000-1200*1000-1200*120-150mm"
+        ],
+        [
+          "Packing speed",
+          "8-10cycles/min"
+        ],
+        [
+          "Stacking height",
+          "1800mm(From the ground)"
+        ]
+      ]
+    },
+    "120": {
+      "id": "120",
+      "url": "https://www.yupack.com/120.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20220419/45df35c8f094175d.jpg_20220419174337_478x328.jpg",
+      "cat": "seal",
+      "specs": [
+        [
+          "Model",
+          "FXJ-5050B"
+        ],
+        [
+          "Table top height",
+          "580-780mm"
+        ],
+        [
+          "Conveyors speed",
+          "0-20m/min"
+        ],
+        [
+          "Suitable carton sizes",
+          "L150-∞*W150-500*H150-500mm (Subject to actual carton specifications）"
+        ],
+        [
+          "Suitable tape sizes",
+          "W48-75mm"
+        ],
+        [
+          "Voltage",
+          "220V．50HZ single phase"
+        ],
+        [
+          "Power",
+          "0.36kw"
+        ],
+        [
+          "Machine size",
+          "L1060*W850*H1500mm (excluding front and rear rollers)"
+        ],
+        [
+          "Machine weight",
+          "120kg"
+        ]
+      ]
+    },
+    "121": {
+      "id": "121",
+      "url": "https://www.yupack.com/121.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20240422/60a75de126fdf3e7.jpg_20240422153810_478x328.jpg",
+      "cat": "seal",
+      "specs": [
+        [
+          "Model",
+          "FXJ-5050E"
+        ],
+        [
+          "Table top height",
+          "580-780mm"
+        ],
+        [
+          "Conveyors speed",
+          "0-20m/min"
+        ],
+        [
+          "Suitable carton sizes",
+          "L150-∞*W180-500*H140-500mm (Subject to actual carton specifications）"
+        ],
+        [
+          "Suitable tape sizes",
+          "W48-75mm"
+        ],
+        [
+          "Voltage",
+          "220V．50HZ single phase"
+        ],
+        [
+          "Power",
+          "0.24kw"
+        ],
+        [
+          "Machine size",
+          "L1160*W970*H1350mm (excluding front and rear rollers)"
+        ],
+        [
+          "Machine weight",
+          "120kg"
+        ]
+      ]
+    },
+    "122": {
+      "id": "122",
+      "url": "https://www.yupack.com/122.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20240422/9307a82c4d027efd.jpg_20240422153723_478x328.jpg",
+      "cat": "seal",
+      "specs": [
+        [
+          "Model",
+          "FXJ-P5050E"
+        ],
+        [
+          "Table top height",
+          "600-650mm"
+        ],
+        [
+          "Conveyors speed",
+          "0-20m/min"
+        ],
+        [
+          "Suitable carton sizes",
+          "L320-500*W200-500*H180-500mm (Subject to actual carton specifications）"
+        ],
+        [
+          "Suitable tape sizes",
+          "W48-75mm"
+        ],
+        [
+          "Air pressure",
+          "6Kg/cm2"
+        ],
+        [
+          "Voltage",
+          "220V．50HZ single phase"
+        ],
+        [
+          "Power",
+          "0.4kw"
+        ],
+        [
+          "Machine size",
+          "L2000*W1200*H1500mm"
+        ],
+        [
+          "Machine weight",
+          "450kg"
+        ]
+      ]
+    },
+    "123": {
+      "id": "123",
+      "url": "https://www.yupack.com/123.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20220419/_0002_204A3901_155e4c51.jpg_20220419174948_478x328.jpg",
+      "cat": "seal",
+      "specs": [
+        [
+          "Model",
+          "FXJ-AT5050"
+        ],
+        [
+          "Table top height",
+          "610-810mm"
+        ],
+        [
+          "Conveyors speed",
+          "0-20m/min"
+        ],
+        [
+          "Suitable carton sizes",
+          "L200-600*W150-500*H150-500mm(Subject to actual carton specifications）"
+        ],
+        [
+          "Suitable tape sizes",
+          "W48-75mm"
+        ],
+        [
+          "Voltage",
+          "220V．50HZ single phase"
+        ],
+        [
+          "Power",
+          "0.4kw"
+        ],
+        [
+          "Machine size",
+          "L1780*W930*H1600mm"
+        ],
+        [
+          "Machine weight",
+          "180kg"
+        ]
+      ]
+    },
+    "124": {
+      "id": "124",
+      "url": "https://www.yupack.com/124.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20220419/7fc4072dd1b8e759.jpg_20220419175023_478x328.jpg",
+      "cat": "seal",
+      "specs": [
+        [
+          "Model",
+          "FXJ-5050"
+        ],
+        [
+          "Table top height",
+          "580-780mm"
+        ],
+        [
+          "Conveyors speed",
+          "0-20m/min"
+        ],
+        [
+          "Suitable carton sizes",
+          "L150-∞*W150-500*H120-500mm (Subject to actual carton specifications）"
+        ],
+        [
+          "Suitable tape sizes",
+          "W48-75mm"
+        ],
+        [
+          "Air pressure",
+          "6Kg/cm2"
+        ],
+        [
+          "Voltage",
+          "220V．50HZ single phase"
+        ],
+        [
+          "Power",
+          "0.4kw"
+        ],
+        [
+          "Machine size",
+          "L1060*W850*H1350mm(excluding front and rear rollers)"
+        ],
+        [
+          "Machine weight",
+          "100kg"
+        ]
+      ]
+    },
+    "125": {
+      "id": "125",
+      "url": "https://www.yupack.com/125.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20220419/3c329134d0bdf568.jpg_20220419175049_478x328.jpg",
+      "cat": "seal",
+      "specs": [
+        [
+          "Model",
+          "FXJ-6050"
+        ],
+        [
+          "Table top height",
+          "580-780mm"
+        ],
+        [
+          "Conveyors speed",
+          "0-20m/min"
+        ],
+        [
+          "Suitable carton sizes",
+          "L150-∞*W180-500*H130-500mm (Subject to actual carton specifications）"
+        ],
+        [
+          "Suitable tape sizes",
+          "W48-75mm"
+        ],
+        [
+          "Voltage",
+          "220V．50HZ single phase"
+        ],
+        [
+          "Power",
+          "0.24kw"
+        ],
+        [
+          "Machine size",
+          "L1060*W850*H1350mm(excluding front and rear rollers)"
+        ],
+        [
+          "Machine weight",
+          "100kg"
+        ]
+      ]
+    },
+    "126": {
+      "id": "126",
+      "url": "https://www.yupack.com/126.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20240422/034bf02cc5bf874a.jpg_20240422153939_478x328.jpg",
+      "cat": "seal",
+      "specs": [
+        [
+          "Model",
+          "FXJ-P5050"
+        ],
+        [
+          "Table top height",
+          "600-650mm"
+        ],
+        [
+          "Conveyors speed",
+          "0-20m/min"
+        ],
+        [
+          "Suitable carton sizes",
+          "L320-500*W200-500*H180-500mm (Subject to actual carton specifications）"
+        ],
+        [
+          "Suitable tape sizes",
+          "W48-75mm"
+        ],
+        [
+          "Air pressure",
+          "5Kg/cm2"
+        ],
+        [
+          "Voltage",
+          "220V．50HZ single phase"
+        ],
+        [
+          "Power",
+          "0.4kw"
+        ],
+        [
+          "Machine size",
+          "L2000*W1200*H1500mm"
+        ],
+        [
+          "Machine weight",
+          "450kg"
+        ]
+      ]
+    },
+    "127": {
+      "id": "127",
+      "url": "https://www.yupack.com/127.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20220419/26ce535935286a29.jpg_20220419175242_478x328.jpg",
+      "cat": "seal",
+      "specs": [
+        [
+          "Model",
+          "FXJ-4060"
+        ],
+        [
+          "Table top height",
+          "580-780mm"
+        ],
+        [
+          "Conveyors speed",
+          "0-20m/min"
+        ],
+        [
+          "Suitable carton sizes",
+          "L150-∞*W150-400*H240-600mm (Subject to actual carton specifications）"
+        ],
+        [
+          "Suitable tape sizes",
+          "W48-75mm"
+        ],
+        [
+          "Voltage",
+          "220V．50HZ single phase"
+        ],
+        [
+          "Power",
+          "0.48kw"
+        ],
+        [
+          "Machine size",
+          "L1060*W850*H1500mm (excluding front and rear rollers)"
+        ],
+        [
+          "Machine weight",
+          "120kg"
+        ]
+      ]
+    },
+    "128": {
+      "id": "128",
+      "url": "https://www.yupack.com/128.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20220419/96abe6f6bc97c676.jpg_20220419175304_478x328.jpg",
+      "cat": "seal",
+      "specs": [
+        [
+          "Model",
+          "FXJ-423"
+        ],
+        [
+          "Table top height",
+          "580-780mm"
+        ],
+        [
+          "Conveyors speed",
+          "0-20m/min"
+        ],
+        [
+          "Suitable carton sizes",
+          "L150-∞*W150-400*H240-600mm (Subject to actual carton specifications）"
+        ],
+        [
+          "Suitable tape sizes",
+          "W48-75mm"
+        ],
+        [
+          "Voltage",
+          "220V．50HZ single phase"
+        ],
+        [
+          "Power",
+          "0.24kw"
+        ],
+        [
+          "Machine size",
+          "L1060*W850*H1500mm (excluding front and rear rollers)"
+        ],
+        [
+          "Machine weight",
+          "120kg"
+        ]
+      ]
+    },
+    "129": {
+      "id": "129",
+      "url": "https://www.yupack.com/129.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20220419/f8130c93480d4d50.jpg_20220419175403_478x328.jpg",
+      "cat": "seal",
+      "specs": [
+        [
+          "Model",
+          "FXJ-5050"
+        ],
+        [
+          "Table top height",
+          "580-780mm"
+        ],
+        [
+          "Conveyors speed",
+          "0-20m/min"
+        ],
+        [
+          "Suitable carton sizes",
+          "L150-∞*W150-500*H120-500mm (Subject to actual carton specifications）"
+        ],
+        [
+          "Suitable tape sizes",
+          "W48-75mm"
+        ],
+        [
+          "Air pressure",
+          "6Kg/cm2"
+        ],
+        [
+          "Voltage",
+          "220V．50HZ single phase"
+        ],
+        [
+          "Power",
+          "0.4kw"
+        ],
+        [
+          "Machine size",
+          "L1060*W850*H1350mm(excluding front and rear rollers)"
+        ],
+        [
+          "Machine weight",
+          "100kg"
+        ]
+      ]
+    },
+    "131": {
+      "id": "131",
+      "url": "https://www.yupack.com/131.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20220419/7390a2d767f48600.jpg_20220419175447_478x328.jpg",
+      "cat": "seal",
+      "specs": [
+        [
+          "Model",
+          "FXJ-5050E"
+        ],
+        [
+          "Table top height",
+          "580-780mm"
+        ],
+        [
+          "Conveyors speed",
+          "0-20m/min"
+        ],
+        [
+          "Suitable carton sizes",
+          "L150-∞*W180-500*H140-500mm (Subject to actual carton specifications）"
+        ],
+        [
+          "Suitable tape sizes",
+          "W48-75mm"
+        ],
+        [
+          "Voltage",
+          "220V．50HZ single phase"
+        ],
+        [
+          "Power",
+          "0.24kw"
+        ]
+      ]
+    },
+    "133": {
+      "id": "133",
+      "url": "https://www.yupack.com/133.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20260423/d17a094aea4cb959_7abe4f27.jpg_20260423131528_478x328.jpg",
+      "cat": "strap",
+      "specs": [
+        [
+          "Model",
+          "YS-305"
+        ],
+        [
+          "Strapping force",
+          "8-60kg"
+        ],
+        [
+          "Strapping speed",
+          "50 straps/ min"
+        ],
+        [
+          "Frame size",
+          "W650*H500mm(customizable)"
+        ],
+        [
+          "Table top height",
+          "825-945mm (customizable)"
+        ],
+        [
+          "Suitable strap width",
+          "5、6、9、12mm (choose one)"
+        ],
+        [
+          "Voltage",
+          "220V 50HZ 1P"
+        ],
+        [
+          "Machine size",
+          "(L) 925mm x (W) 580mm x (H) 1350 mm"
+        ]
+      ]
+    },
+    "134": {
+      "id": "134",
+      "url": "https://www.yupack.com/134.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20260423/14ee6538b5be56ad_c06c8759.jpg_20260423131348_478x328.jpg",
+      "cat": "strap",
+      "specs": [
+        [
+          "Model",
+          "MH-106B"
+        ],
+        [
+          "Strapping force",
+          "120kg"
+        ],
+        [
+          "Strapping speed",
+          "2.5s/strap"
+        ],
+        [
+          "Frame size",
+          "W800*H600mm(customizable)"
+        ],
+        [
+          "Table top height",
+          "750mm"
+        ],
+        [
+          "Pressure",
+          "Customized upon request"
+        ],
+        [
+          "Cylinder stroke",
+          "Customized upon request"
+        ],
+        [
+          "Suitable strap width",
+          "9、12、15mm"
+        ],
+        [
+          "Voltage",
+          "380V．50HZ 0.75kw"
+        ],
+        [
+          "Machine size",
+          "1900*630*1950mm"
+        ],
+        [
+          "Machine weight",
+          "220kg"
+        ],
+        [
+          "Electrical configuration",
+          "LG“PLC” control，French “TE”，Japanese “OMRON”， “ZIK” Electrical， Suitable for baling of regular products"
+        ]
+      ]
+    },
+    "135": {
+      "id": "135",
+      "url": "https://www.yupack.com/135.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20220419/a7ae07fa456fc6bc.jpg_20220419175708_478x328.jpg",
+      "cat": "strap",
+      "specs": [
+        [
+          "Model",
+          "MH-106A"
+        ],
+        [
+          "Strapping force",
+          "120kg"
+        ],
+        [
+          "Strapping speed",
+          "2.5s/strap"
+        ],
+        [
+          "Frame size",
+          "W800*H600mm(customizable)"
+        ],
+        [
+          "Table top height",
+          "450mm"
+        ],
+        [
+          "Pressure",
+          "Customized upon request"
+        ],
+        [
+          "Cylinder stroke",
+          "Customized upon request"
+        ],
+        [
+          "Suitable strap width",
+          "9、12、15mm"
+        ],
+        [
+          "Voltage",
+          "380V．50HZ 0.75kw"
+        ],
+        [
+          "Machine size",
+          "1900*630*1950mm"
+        ],
+        [
+          "Machine weight",
+          "220kg"
+        ],
+        [
+          "Electrical configuration",
+          "LG“PLC” control，French “TE”，Japanese “OMRON”， “ZIK” Electrical， Suitable for baling of regular products"
+        ]
+      ]
+    },
+    "136": {
+      "id": "136",
+      "url": "https://www.yupack.com/136.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20251114/b9bea0e7cee1d9cb.jpg_20251114134223_478x328.jpg",
+      "cat": "strap",
+      "specs": [
+        [
+          "Model",
+          "MH-105D"
+        ],
+        [
+          "Strapping force",
+          "250kg"
+        ],
+        [
+          "Strapping speed",
+          "18s/strap"
+        ],
+        [
+          "Frame size",
+          "Customize according to clients’ requirements"
+        ],
+        [
+          "Suitable strap width",
+          "16, 19mm"
+        ],
+        [
+          "Voltage",
+          "380V．50HZ 0.75kw"
+        ],
+        [
+          "Effective travel of the strapping head",
+          "300mm"
+        ],
+        [
+          "Bonding length",
+          "32mm"
+        ],
+        [
+          "Strapping headmovement speed",
+          "100mm/s"
+        ]
+      ]
+    },
+    "137": {
+      "id": "137",
+      "url": "https://www.yupack.com/137.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20251114/6a05344c57246b39.jpg_20251114113629_478x328.jpg",
+      "cat": "strap",
+      "specs": [
+        [
+          "Model",
+          "MH-105B"
+        ],
+        [
+          "Strapping force",
+          "120kg"
+        ],
+        [
+          "Strapping speed",
+          "18s/strap"
+        ],
+        [
+          "Frame size",
+          "Customize according to clients’ requirements"
+        ],
+        [
+          "Suitable strap width",
+          "13, 15mm"
+        ],
+        [
+          "Voltage",
+          "380V．50HZ 0.75kw"
+        ],
+        [
+          "Machine size",
+          "4500*630*1800mm"
+        ],
+        [
+          "Machine weight",
+          "380kg"
+        ],
+        [
+          "Electrical configuration",
+          "LG“PLC” control，French “TE”，Japanese “OMRON”， “ZIK” Electrical， Suitable for baling of regular products"
+        ]
+      ]
+    },
+    "138": {
+      "id": "138",
+      "url": "https://www.yupack.com/138.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20240709/67530ed972b58b04.jpg_20240709161624_478x328.jpg",
+      "cat": "strap",
+      "specs": [
+        [
+          "Model",
+          "MH-105A"
+        ],
+        [
+          "Strapping force",
+          "120kg"
+        ],
+        [
+          "Strapping speed",
+          "2.5s/strap"
+        ],
+        [
+          "Frame size",
+          "Customize according to clients’ requirements"
+        ],
+        [
+          "Suitable strap width",
+          "13, 15mm"
+        ],
+        [
+          "Voltage",
+          "380V．50HZ 0.75kw"
+        ],
+        [
+          "Machine size",
+          "1400*1350*1800mm"
+        ],
+        [
+          "Machine weight",
+          "220kg"
+        ],
+        [
+          "Electrical configuration",
+          "LG“PLC” control，French “TE”，Japanese “OMRON”， “ZIK” Electrical， Suitable for baling of regular products"
+        ]
+      ]
+    },
+    "139": {
+      "id": "139",
+      "url": "https://www.yupack.com/139.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20220419/c4426a47070b2bd7.jpg_20220419175829_478x328.jpg",
+      "cat": "strap",
+      "specs": [
+        [
+          "Model",
+          "MH-103B"
+        ],
+        [
+          "Strapping force",
+          "120kg"
+        ],
+        [
+          "Strapping speed",
+          "2.5s/strap"
+        ],
+        [
+          "Frame size",
+          "W600*H800mm(customizable)"
+        ],
+        [
+          "Suitable strap width",
+          "9、12、15mm"
+        ],
+        [
+          "Voltage",
+          "380V．50HZ 0.75kw"
+        ],
+        [
+          "Machine size",
+          "1400*630*1100mm"
+        ],
+        [
+          "Machine weight",
+          "150kg"
+        ],
+        [
+          "Electrical configuration",
+          "LG“PLC” control，French “TE”，Japanese “OMRON”， “ZIK” Electrical， Suitable for baling of regular products"
+        ]
+      ]
+    },
+    "140": {
+      "id": "140",
+      "url": "https://www.yupack.com/140.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20220419/f33ffa9516af5ec1.jpg_20220419175845_478x328.jpg",
+      "cat": "strap",
+      "specs": [
+        [
+          "Model",
+          "MH-103A"
+        ],
+        [
+          "Strapping force",
+          "120kg"
+        ],
+        [
+          "Strapping speed",
+          "2.5s/strap"
+        ],
+        [
+          "Frame size",
+          "W600*H800mm(customizable)"
+        ],
+        [
+          "Suitable strap width",
+          "9、12、15mm"
+        ],
+        [
+          "Voltage",
+          "380V．50HZ 0.75kw"
+        ],
+        [
+          "Machine size",
+          "1400*630*1100mm"
+        ],
+        [
+          "Machine weight",
+          "150kg"
+        ],
+        [
+          "Electrical configuration",
+          "LG“PLC” control，French “TE”，Japanese “OMRON”， “ZIK” Electrical， Suitable for baling of regular products"
+        ]
+      ]
+    },
+    "141": {
+      "id": "141",
+      "url": "https://www.yupack.com/141.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20220419/_0006_6-1_a59e16ea.jpg_20220419175927_478x328.jpg",
+      "cat": "strap",
+      "specs": [
+        [
+          "Model",
+          "MH-102B"
+        ],
+        [
+          "Strapping force",
+          "120kg"
+        ],
+        [
+          "Strapping speed",
+          "2.5s/strap"
+        ],
+        [
+          "Frame size",
+          "W800*H600mm(customizable)"
+        ],
+        [
+          "Suitable strap width",
+          "9、12、15mm"
+        ],
+        [
+          "Voltage",
+          "380V．50HZ 0.75kw"
+        ],
+        [
+          "Machine size",
+          "1450*630*1760mm"
+        ],
+        [
+          "Machine weight",
+          "120kg"
+        ],
+        [
+          "Electrical configuration",
+          "LG“PLC” control，French “TE”，Japanese “OMRON”， “ZIK” Electrical， Suitable for baling of regular products"
+        ]
+      ]
+    },
+    "142": {
+      "id": "142",
+      "url": "https://www.yupack.com/142.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20220419/_0005_5-1_23768b4c.jpg_20220419180003_478x328.jpg",
+      "cat": "strap",
+      "specs": [
+        [
+          "Model",
+          "MH-102A"
+        ],
+        [
+          "Strapping force",
+          "120kg"
+        ],
+        [
+          "Strapping speed",
+          "2.5s/strap"
+        ],
+        [
+          "Frame size",
+          "W800*H600mm(customizable)"
+        ],
+        [
+          "Suitable strap width",
+          "9、12、15mm"
+        ],
+        [
+          "Voltage",
+          "380V．50HZ 0.75kw"
+        ],
+        [
+          "Machine size",
+          "1450*630*1420mm"
+        ],
+        [
+          "Machine weight",
+          "120kg"
+        ],
+        [
+          "Electrical configuration",
+          "LG“PLC” control，French “TE”，Japanese “OMRON”， “ZIK” Electrical， Suitable for baling of regular products"
+        ]
+      ]
+    },
+    "143": {
+      "id": "143",
+      "url": "https://www.yupack.com/143.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20220419/_0005_12-2_ccee32a6.jpg_20220419180040_478x328.jpg",
+      "cat": "strap",
+      "specs": [
+        [
+          "Model",
+          "MH-101B"
+        ],
+        [
+          "Strapping force",
+          "120kg"
+        ],
+        [
+          "Strapping speed",
+          "2.5s/strap"
+        ],
+        [
+          "Frame size",
+          "W800*H600mm(customizable)"
+        ],
+        [
+          "Suitable strap width",
+          "9、12、15mm"
+        ],
+        [
+          "Voltage",
+          "380V．50HZ 0.75kw"
+        ],
+        [
+          "Machine size",
+          "1450*630*1760mm"
+        ],
+        [
+          "Machine weight",
+          "120kg"
+        ],
+        [
+          "Electrical configuration",
+          "LG“PLC” control，French “TE”，Japanese “OMRON”， “ZIK” Electrical， Suitable for baling of regular products"
+        ]
+      ]
+    },
+    "144": {
+      "id": "144",
+      "url": "https://www.yupack.com/144.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20220419/_0008_11-1_70e78b84.jpg_20220419180117_478x328.jpg",
+      "cat": "strap",
+      "specs": [
+        [
+          "Model",
+          "MH-101A"
+        ],
+        [
+          "Strapping force",
+          "80kg"
+        ],
+        [
+          "Strapping speed",
+          "Max 2.5 second/strap"
+        ],
+        [
+          "Frame size",
+          "W800mm*H600mm"
+        ],
+        [
+          "Color",
+          "white"
+        ],
+        [
+          "Strap width",
+          "12mm"
+        ],
+        [
+          "Voltage",
+          "380V 50Hz 3phase"
+        ],
+        [
+          "Power",
+          "0.75KW"
+        ],
+        [
+          "Machine size",
+          "L1400*W630*H1350mm"
+        ],
+        [
+          "Working table height",
+          "750±50mm"
+        ],
+        [
+          "Net weight",
+          "200kg"
+        ]
+      ]
+    },
+    "145": {
+      "id": "145",
+      "url": "https://www.yupack.com/145.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20260423/7672837375efe2b9.jpg_20260423113434_478x328.jpg",
+      "cat": "strap",
+      "specs": [
+        [
+          "Model",
+          "YS-A1"
+        ],
+        [
+          "Strapping force",
+          "50kg"
+        ],
+        [
+          "Strapping speed",
+          "1.5s/strap"
+        ],
+        [
+          "Suitable strap width",
+          "12、15mm"
+        ],
+        [
+          "Voltage",
+          "220v 50HZ 1P"
+        ],
+        [
+          "Machine size",
+          "950*560*450mm"
+        ],
+        [
+          "Machine weight",
+          "100kg"
+        ]
+      ]
+    },
+    "146": {
+      "id": "146",
+      "url": "https://www.yupack.com/146.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20220420/09a8fe580d7f7073.jpg_20220420095701_478x328.jpg",
+      "cat": "erect",
+      "specs": [
+        [
+          "Model",
+          "YPK4012"
+        ],
+        [
+          "Voltage",
+          "220 V 60HZ 400W"
+        ],
+        [
+          "Air pressure",
+          "6 kg/cm²"
+        ],
+        [
+          "Gas consumption",
+          "200 L/min"
+        ],
+        [
+          "Machine shape",
+          "L2500mm×W1950mm×H1500mm"
+        ],
+        [
+          "Machine weight",
+          "550kg"
+        ],
+        [
+          "Carton size",
+          "L11.875 \"* W 10.125\"H5.5 \"~L16 \"*W11 \"*H12.875 \""
+        ],
+        [
+          "Conveyor speed",
+          "≤16 cases/min"
+        ],
+        [
+          "Single production efficiency",
+          "≥95%"
+        ],
+        [
+          "Carton loss rate",
+          "1 %"
+        ],
+        [
+          "Open carton type",
+          "Vertical & hot melt"
+        ]
+      ]
+    },
+    "148": {
+      "id": "148",
+      "url": "https://www.yupack.com/148.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20251114/704eb24d85e096db.jpg_20251114101252_478x328.jpg",
+      "cat": "wrap",
+      "specs": [
+        [
+          "Voltage",
+          "380V．50HZ．3P/220V．50HZ．1P"
+        ],
+        [
+          "Power",
+          "0.18kw"
+        ],
+        [
+          "Wrapping size",
+          "600-600mm"
+        ],
+        [
+          "Wrapping height",
+          "2100mm"
+        ],
+        [
+          "Film inner diameter",
+          "75mm"
+        ],
+        [
+          "Film outer diameter",
+          "250mm"
+        ],
+        [
+          "Machine weight",
+          "325Kg"
+        ],
+        [
+          "Machine size",
+          "L2340*W1180*H1133mm"
+        ]
+      ]
+    },
+    "149": {
+      "id": "149",
+      "url": "https://www.yupack.com/149.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20251114/2010c9334d6a4322.jpg_20251114153150_478x328.jpg",
+      "cat": "wrap",
+      "specs": [
+        [
+          "Voltage",
+          "380V．50HZ．3 phase"
+        ],
+        [
+          "Power",
+          "Turntable 0.75kw, film carriage0.4 kw, column 0.37 kw"
+        ],
+        [
+          "Wrapping size",
+          "L500-1100*W500-1200mm"
+        ],
+        [
+          "Wrapping height",
+          "500-2000（can be customized）"
+        ],
+        [
+          "Speed",
+          "20-40P/Hour"
+        ],
+        [
+          "Turntable diameter",
+          "1650mm"
+        ],
+        [
+          "Turntable height",
+          "400mm"
+        ],
+        [
+          "Max loading",
+          "2000Kg"
+        ],
+        [
+          "Machine size",
+          "L3200*W2000*H2600mm"
+        ],
+        [
+          "Machine weight",
+          "700kg"
+        ]
+      ]
+    },
+    "150": {
+      "id": "150",
+      "url": "https://www.yupack.com/150.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20220420/2b8963a60a72a5d8.jpg_20220420095902_478x328.jpg",
+      "cat": "wrap",
+      "specs": [
+        [
+          "Voltage",
+          "380V．50HZ．3P"
+        ],
+        [
+          "Power",
+          "Turntable0.75 kw, column0.4kw, roller 0.4 kw ,film carriage 0.4 kw"
+        ],
+        [
+          "Wrapping size",
+          "diameter600-1500mm width 800-1650mm"
+        ],
+        [
+          "Turntable diameter",
+          "2000mm"
+        ],
+        [
+          "Turntable height",
+          "515mm"
+        ],
+        [
+          "Max loading",
+          "2000Kg"
+        ],
+        [
+          "Speed",
+          "20-40P/Hour"
+        ],
+        [
+          "Machine size",
+          "L3000*W2000*H2100mm"
+        ]
+      ]
+    },
+    "151": {
+      "id": "151",
+      "url": "https://www.yupack.com/151.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20251114/da305da8204ab15d.jpg_20251114091633_478x328.jpg",
+      "cat": "wrap",
+      "specs": [
+        [
+          "Voltage",
+          "380V．50HZ．3P"
+        ],
+        [
+          "Power",
+          "Arm1.5kw、film carriage0.4 kw 、column0.55 kw"
+        ],
+        [
+          "Wrapping size",
+          "L500-1100*W500-1200mm"
+        ],
+        [
+          "Wrapping height",
+          "500-1800（can be customized）"
+        ],
+        [
+          "Speed",
+          "35-45P/Hour"
+        ],
+        [
+          "Machine size",
+          "L4200*W3200*H3500mm"
+        ]
+      ]
+    },
+    "152": {
+      "id": "152",
+      "url": "https://www.yupack.com/152.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20220420/91bd1780c6e642b5.jpg_20220420100024_478x328.jpg",
+      "cat": "wrap",
+      "specs": [
+        [
+          "Voltage",
+          "220V．50HZ．1P"
+        ],
+        [
+          "Power",
+          "0.75kw"
+        ],
+        [
+          "Wrapping size",
+          "L250-800*W220-480mm"
+        ],
+        [
+          "Wrapping height",
+          "1000mm"
+        ],
+        [
+          "Speed",
+          "30-50P/Hour"
+        ],
+        [
+          "Turntable diameter",
+          "500mm"
+        ],
+        [
+          "Turntable height",
+          "400mm"
+        ],
+        [
+          "Max loading",
+          "100Kg"
+        ],
+        [
+          "Machine weight",
+          "240Kg"
+        ],
+        [
+          "Machine size",
+          "L1550*W620*H1750mm"
+        ]
+      ]
+    },
+    "153": {
+      "id": "153",
+      "url": "https://www.yupack.com/153.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20251114/99977_d6e5e337.jpg_20251114160833_478x328.jpg",
+      "cat": "wrap",
+      "specs": [
+        [
+          "Voltage",
+          "220V．50HZ．1P"
+        ],
+        [
+          "Power",
+          "1.5kw"
+        ],
+        [
+          "Wrapping size",
+          "W≥220-480mm diagonal≤1000mm"
+        ],
+        [
+          "Wrapping height",
+          "1000mm"
+        ],
+        [
+          "Speed",
+          "20-40P/Hour"
+        ],
+        [
+          "Turntable diameter",
+          "300mm"
+        ],
+        [
+          "Turntable height",
+          "560mm"
+        ],
+        [
+          "Max loading",
+          "100Kg"
+        ],
+        [
+          "Machine weight",
+          "300Kg"
+        ],
+        [
+          "Machine size",
+          "L1800*W800*H2200mm"
+        ]
+      ]
+    },
+    "154": {
+      "id": "154",
+      "url": "https://www.yupack.com/154.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20220420/b84b0f4ec7330cdf.jpg_20220420100057_478x328.jpg",
+      "cat": "wrap",
+      "specs": [
+        [
+          "Voltage",
+          "380V．50HZ．3P"
+        ],
+        [
+          "Power",
+          "3kw"
+        ],
+        [
+          "Wrapping width",
+          "50-500mm"
+        ],
+        [
+          "Wrapping height",
+          "100-400mm"
+        ],
+        [
+          "Speed",
+          "30-50P/Hour"
+        ],
+        [
+          "Machine weight",
+          "1000Kg"
+        ]
+      ]
+    },
+    "156": {
+      "id": "156",
+      "url": "https://www.yupack.com/156.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20251114/a4e16c66ebd28c0e.jpg_20251114102121_478x328.jpg",
+      "cat": "wrap",
+      "specs": [
+        [
+          "Voltage",
+          "220V．50HZ．1P"
+        ],
+        [
+          "Power",
+          "0.75kw"
+        ],
+        [
+          "Wrapping size",
+          "L250-800*W220-480mm"
+        ],
+        [
+          "Wrapping height",
+          "1000mm"
+        ],
+        [
+          "Speed",
+          "30-50P/Hour"
+        ],
+        [
+          "Turntable diameter",
+          "500mm"
+        ],
+        [
+          "Turntable height",
+          "400mm"
+        ],
+        [
+          "Max loading",
+          "100Kg"
+        ],
+        [
+          "Machine weight",
+          "240Kg"
+        ],
+        [
+          "Machine size",
+          "L1550*W620*H1750mm"
+        ]
+      ]
+    },
+    "157": {
+      "id": "157",
+      "url": "https://www.yupack.com/157.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20251028/847ed3d5743997ab.png_20251028105633_478x328.jpg",
+      "cat": "wrap",
+      "specs": [
+        [
+          "Voltage",
+          "220V．50HZ single phase"
+        ],
+        [
+          "Power",
+          "Turntable 0.75kw, film carriage0.4 kw , column 0.37 kw"
+        ],
+        [
+          "Wrapping size",
+          "L500-1100*W500-1200mm"
+        ],
+        [
+          "Wrapping height",
+          "500-2000（can be customized）"
+        ],
+        [
+          "Speed",
+          "20-40P/Hour"
+        ],
+        [
+          "Turntable diameter",
+          "1650mm"
+        ],
+        [
+          "Turntable height",
+          "85mm"
+        ],
+        [
+          "Max loading",
+          "2000Kg"
+        ],
+        [
+          "Machine size",
+          "L2650*W1650*H2400mm"
+        ],
+        [
+          "Machine weight",
+          "700kg"
+        ]
+      ]
+    },
+    "158": {
+      "id": "158",
+      "url": "https://www.yupack.com/158.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20221009/123_9993764c.jpg_20221009114421_478x328.jpg",
+      "cat": "wrap",
+      "specs": [
+        [
+          "Voltage",
+          "220V．50HZ．Single phase"
+        ],
+        [
+          "Power",
+          "Turntable 0.75kw, film carriage0.4 kw, column 0.37 kw"
+        ],
+        [
+          "Wrapping size",
+          "L500-1100*W500-1200mm"
+        ],
+        [
+          "Wrapping height",
+          "500-2000（can be customized）"
+        ],
+        [
+          "Speed",
+          "20-40P/Hour"
+        ]
+      ]
+    },
+    "159": {
+      "id": "159",
+      "url": "https://www.yupack.com/159.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20251028/M1_24faf0a7.png_20251028105037_478x328.jpg",
+      "cat": "wrap",
+      "specs": [
+        [
+          "Voltage",
+          "220V．50HZ．Single phase"
+        ],
+        [
+          "Power",
+          "Turntable 0.75kw, film carriage0.4 kw, column 0.37 kw"
+        ],
+        [
+          "Wrapping size",
+          "L500-1100*W500-1200mm"
+        ],
+        [
+          "Wrapping height",
+          "500-2000（can be customized）"
+        ],
+        [
+          "Speed",
+          "20-40P/Hour"
+        ],
+        [
+          "Turntable diameter",
+          "1650mm"
+        ],
+        [
+          "Turntable height",
+          "90mm"
+        ],
+        [
+          "Max loading",
+          "1000Kg"
+        ],
+        [
+          "Machine size",
+          "L2900*W1650*H2400mm"
+        ],
+        [
+          "Machine weight",
+          "700kg"
+        ]
+      ]
+    },
+    "160": {
+      "id": "160",
+      "url": "https://www.yupack.com/160.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20260423/779988_62be36c5.jpg_20260423142409_478x328.jpg",
+      "cat": "strap",
+      "specs": [
+        [
+          "Model",
+          "YS-A1"
+        ],
+        [
+          "Strapping force",
+          "50kg"
+        ],
+        [
+          "Strapping speed",
+          "1.5s/strap"
+        ],
+        [
+          "Suitable strap width",
+          "12、15mm"
+        ],
+        [
+          "Voltage",
+          "220v 50HZ 1P"
+        ],
+        [
+          "Machine size",
+          "950*560*750mm"
+        ],
+        [
+          "Machine weight",
+          "100kg"
+        ]
+      ]
+    },
+    "163": {
+      "id": "163",
+      "url": "https://www.yupack.com/163.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20220420/_0004_DSC_0634_bc6b8d36.jpg_20220420100445_478x328.jpg",
+      "cat": "strap",
+      "specs": [
+        [
+          "Model",
+          "DBA-130A"
+        ],
+        [
+          "Strapping force",
+          "50kg"
+        ],
+        [
+          "Strapping speed",
+          "2.5s/strap"
+        ],
+        [
+          "Suitable strap width",
+          "9、12、15mm"
+        ],
+        [
+          "Voltage",
+          "110/220V．50/60HZ. Single phase"
+        ],
+        [
+          "Power",
+          "0.66kw"
+        ],
+        [
+          "Machine size",
+          "900*670*1600mm"
+        ],
+        [
+          "Machine weight",
+          "65kg"
+        ]
+      ]
+    },
+    "263": {
+      "id": "263",
+      "url": "https://www.yupack.com/263.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20251114/ad4ded0d9145cb73.jpg_20251114155700_478x328.jpg",
+      "cat": "wrap",
+      "specs": [
+        [
+          "Model",
+          "YP200F"
+        ],
+        [
+          "Width of tyre",
+          "W≤280mm(can be customize)"
+        ],
+        [
+          "Outside diameter",
+          "450≤OD≤1200mm"
+        ],
+        [
+          "Inside diameter",
+          "250≤ID≤1000mm"
+        ],
+        [
+          "Packing material",
+          "Inside diameter:76;diameter:230mmwidth:80-120"
+        ],
+        [
+          "Speed",
+          "v≤400r/min"
+        ],
+        [
+          "Speer roller",
+          "v≤200r/min"
+        ],
+        [
+          "Height of roller",
+          "200mm"
+        ],
+        [
+          "Loading of roller",
+          "500kg"
+        ],
+        [
+          "Pressure roller stroke",
+          "Pneumatic 0.4m"
+        ],
+        [
+          "Power",
+          "2kW 50HZ/60HZ"
+        ],
+        [
+          "Voltage",
+          "380V 3Ph"
+        ],
+        [
+          "Weight",
+          "300kg"
+        ]
+      ]
+    },
+    "266": {
+      "id": "266",
+      "url": "https://www.yupack.com/266.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20260423/2_beeb5c22_0f03e219.jpg_20260423130719_478x328.jpg",
+      "cat": "strap",
+      "specs": [
+        [
+          "Model",
+          "LX305B"
+        ],
+        [
+          "Strapping speed",
+          "20bundle/min"
+        ],
+        [
+          "Strap width",
+          "5mm/8mm/9mm/10mm"
+        ],
+        [
+          "Strap tension",
+          "1-50Kg adjust"
+        ],
+        [
+          "Bundle size",
+          "min 200mm(W)*50mm(H)/max 1200mm(W)*450mm(H)"
+        ],
+        [
+          "Table height",
+          "750mm-840mm adjust"
+        ],
+        [
+          "Top pressure",
+          "100Kg(maximum)"
+        ],
+        [
+          "Volatge",
+          "220V-415V 3phase 50HZ/60HZ"
+        ]
+      ]
+    },
+    "275": {
+      "id": "275",
+      "url": "https://www.yupack.com/275.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20220801/6_1c4f43be.png_20220801091748_478x328.jpg",
+      "cat": "erect",
+      "specs": [
+        [
+          "Voltage",
+          "220v 50hz 1p"
+        ],
+        [
+          "Power",
+          "200w"
+        ],
+        [
+          "Speed",
+          "9-12cartons/min"
+        ],
+        [
+          "Table height",
+          "620mm"
+        ],
+        [
+          "Air",
+          "6kg/cm²"
+        ],
+        [
+          "Tape",
+          "W48-75mm"
+        ],
+        [
+          "Machine size",
+          "L2100*W2100*H1480mm"
+        ],
+        [
+          "Machine weight",
+          "620kg"
+        ]
+      ]
+    },
+    "277": {
+      "id": "277",
+      "url": "https://www.yupack.com/277.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20250317/d21138c052c38d70.jpg_20250317103601_478x328.jpg",
+      "cat": "seal",
+      "specs": [
+        [
+          "Model",
+          "FXJ-AT5050"
+        ],
+        [
+          "Table top height",
+          "610-810mm"
+        ],
+        [
+          "Conveyors speed",
+          "0-20m/min"
+        ],
+        [
+          "Suitable carton sizes",
+          "L200-600*W150-500*H150-500mm(Subject to actual carton specifications）"
+        ],
+        [
+          "Suitable tape sizes",
+          "W48-75mm"
+        ],
+        [
+          "Voltage",
+          "220V．50HZ single phase"
+        ],
+        [
+          "Power",
+          "0.4kw"
+        ],
+        [
+          "Machine size",
+          "L1780*W930*H1600mm"
+        ],
+        [
+          "Machine weight",
+          "180kg"
+        ]
+      ]
+    },
+    "278": {
+      "id": "278",
+      "url": "https://www.yupack.com/278.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20220923/01_1af857b9.png_20220923170803_478x328.jpg",
+      "cat": "erect",
+      "specs": [
+        [
+          "Model",
+          "SDW-K20TK New Condition Stainless Steel Carton Erector/caseerector"
+        ],
+        [
+          "Voltage",
+          "220V/50Hz, single phase"
+        ],
+        [
+          "Air pressure",
+          "6kg/cm2"
+        ],
+        [
+          "Gas consumption",
+          "200L/min"
+        ],
+        [
+          "Packing carton size",
+          "min.carton size:L450*W400*H400mmmax.cartons sizeL250*W150*H100mm"
+        ],
+        [
+          "Speed",
+          "12 cartons/min"
+        ],
+        [
+          "Open carton type",
+          "Vertical & hot melt"
+        ],
+        [
+          "Single production effeciency",
+          ">95%"
+        ],
+        [
+          "Cartob loss rate",
+          "1‰"
+        ],
+        [
+          "Machine dimension",
+          "L2500*W1950*H1500mm"
+        ],
+        [
+          "Machine weight",
+          "550kg"
+        ]
+      ]
+    },
+    "279": {
+      "id": "279",
+      "url": "https://www.yupack.com/279.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20260423/96f9b643178b7f6e.jpg_20260423134652_478x328.jpg",
+      "cat": "erect",
+      "specs": [
+        [
+          "Model",
+          "YPK-AS923B"
+        ],
+        [
+          "Conveyor speed",
+          "16m/min"
+        ],
+        [
+          "Max. Packager size",
+          "L500*W450*H570mm"
+        ],
+        [
+          "Min. Packager size",
+          "W150*H120mm"
+        ],
+        [
+          "Width of tape",
+          "36、48、50、60mm"
+        ],
+        [
+          "Power supply",
+          "110V,220-240V/50-60Hz"
+        ],
+        [
+          "Power",
+          "300W"
+        ],
+        [
+          "Machine size",
+          "1720*820*1450mm"
+        ],
+        [
+          "Machine Weight",
+          "180kg"
+        ]
+      ]
+    },
+    "280": {
+      "id": "280",
+      "url": "https://www.yupack.com/280.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20250317/1_4b2f790b.jpg_20250317103944_478x328.jpg",
+      "cat": "pallet",
+      "specs": [
+        [
+          "Name",
+          "Brand Origin"
+        ],
+        [
+          "PLC",
+          "Siemens Germany"
+        ],
+        [
+          "Touch screen",
+          "Siemens Germany"
+        ],
+        [
+          "24v Power supply",
+          "MINGWEI China well-known brand"
+        ],
+        [
+          "Horizontal Geared motor",
+          "CPG TAIWAN"
+        ],
+        [
+          "Turbine shaft Geared motor",
+          "TONGYU China well-known brand"
+        ],
+        [
+          "Cylinder",
+          "Airtac TAIWAN"
+        ],
+        [
+          "Solenoid valve",
+          "Airtac TAIWAN"
+        ],
+        [
+          "Intermediate relay",
+          "Schneider FRANCE"
+        ],
+        [
+          "Breaker",
+          "Schneider FRANCE"
+        ],
+        [
+          "Contactor",
+          "Schneider FRANCE"
+        ],
+        [
+          "Photoelectric sensor",
+          "SICK Germany"
+        ],
+        [
+          "Approach sensor",
+          "SICK Germany"
+        ],
+        [
+          "Linear slide rail, slide block",
+          "HIWIN TAIWAN"
+        ]
+      ]
+    },
+    "282": {
+      "id": "282",
+      "url": "https://www.yupack.com/282.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20221009/WOSHICHANRAOS_428d2f09.jpg_20221009144726_478x328.jpg",
+      "cat": "wrap",
+      "specs": [
+        [
+          "Model",
+          "H800L"
+        ],
+        [
+          "Packing Speed",
+          "20-40 packages/hour"
+        ],
+        [
+          "Rotary Speed",
+          "80rpm/min Adjustable"
+        ],
+        [
+          "Ring Outside Diameter",
+          "600≤OD≤800mm"
+        ],
+        [
+          "Ring Inner Diameter",
+          "200≤ID≤300mm"
+        ],
+        [
+          "Tire Width",
+          "200-300mm"
+        ],
+        [
+          "Applicable film",
+          "Stretch film"
+        ],
+        [
+          "Packing Material",
+          "Width: 100mm Thickness: 20-30μmInner Hole D:76.2mm Outer D: 200mm"
+        ],
+        [
+          "Max Coil Weight",
+          "100kg"
+        ],
+        [
+          "Rotating ring inner diameter",
+          "200mm"
+        ],
+        [
+          "Rotating ring outer diameter",
+          "800mm"
+        ],
+        [
+          "Voltage",
+          "220/380V 3ph 50HZ/60HZ"
+        ],
+        [
+          "Power",
+          "1.5KW"
+        ],
+        [
+          "Air pressure",
+          "0.4-0.6Mpa"
+        ]
+      ]
+    },
+    "427": {
+      "id": "427",
+      "url": "https://www.yupack.com/427.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20250317/21_11de8512.jpg_20250317104411_478x328.jpg",
+      "cat": "bag"
+    },
+    "451": {
+      "id": "451",
+      "url": "https://www.yupack.com/451.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20260423/98d26d5574c0ace0.jpg_20260423135416_478x328.jpg",
+      "cat": "erect"
+    },
+    "452": {
+      "id": "452",
+      "url": "https://www.yupack.com/452.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20250317/111_7a2dca24.jpg_20250317104314_478x328.jpg",
+      "cat": "cart",
+      "specs": [
+        [
+          "Machine size",
+          "4000 X 1579 X 1620mm"
+        ],
+        [
+          "speed",
+          "20-80 boxes/min"
+        ],
+        [
+          "voltage",
+          "220V，50/60Hz"
+        ],
+        [
+          "Applicable box range:",
+          "minimum spray box :45 X 12 X 12mm Minimum cartridge: 45 X 15 X 15mm Max box: 260 X 180 X 100mm"
+        ],
+        [
+          "Box material",
+          "White card paper (recommended), gray background white"
+        ],
+        [
+          "Forming method",
+          "insert tongue/spray glue/buckle bottom/self-buckle bottom"
+        ],
+        [
+          "Machine weight",
+          "2000kg"
+        ]
+      ]
+    },
+    "642": {
+      "id": "642",
+      "url": "https://www.yupack.com/642.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20251114/641741a979e9ec60.jpg_20251114092826_478x328.jpg",
+      "cat": "wrap",
+      "specs": [
+        [
+          "Fit cargo size",
+          "L1200mm*W1200mm*H2000mm"
+        ],
+        [
+          "Packaging efficiency",
+          "80 torr/hour"
+        ],
+        [
+          "Rotational speed",
+          "0-45rpm/ min"
+        ],
+        [
+          "voltage",
+          "50Hz, AC380V"
+        ],
+        [
+          "Air source",
+          "0.5-0.7Mpa"
+        ],
+        [
+          "Packing material",
+          "LLDPE"
+        ],
+        [
+          "Stretched film width:500mm",
+          "Thickness: 23um, maximum outside diameter: 260mm, inner diameter of paper core: ￠76"
+        ]
+      ]
+    },
+    "670": {
+      "id": "670",
+      "url": "https://www.yupack.com/670.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20260423/10462b1536c5d335_b64a8420.jpg_20260423115310_478x328.jpg",
+      "cat": "strap",
+      "specs": [
+        [
+          "Type",
+          "YS-LX305"
+        ],
+        [
+          "Strapping force",
+          "8-60kg"
+        ],
+        [
+          "Strapping speed",
+          "26strao/minute"
+        ],
+        [
+          "Dimensions of frame",
+          "W1250*H500mm（support customized）"
+        ],
+        [
+          "Table height",
+          "754-1200mm(adjust)"
+        ],
+        [
+          "Pressure",
+          "Customized"
+        ],
+        [
+          "Cylinder stroke",
+          "Customized"
+        ],
+        [
+          "Strap width",
+          "5、6、9mm(choose one)"
+        ],
+        [
+          "Strapping mode",
+          "Hot melt"
+        ],
+        [
+          "Voltage",
+          "220V 50HZ"
+        ],
+        [
+          "Machine size",
+          "(L) 2290mm x (W) 725mm x (H) 1450 mm"
+        ],
+        [
+          "Machine weight",
+          "480kg"
+        ]
+      ]
+    },
+    "809": {
+      "id": "809",
+      "url": "https://www.yupack.com/809.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20230714/bfd383c4899d6603.jpg_20230714093937_478x328.jpg",
+      "cat": "wrap"
+    },
+    "858": {
+      "id": "858",
+      "url": "https://www.yupack.com/858.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20240105/ffb160b3f25850fa.jpg_20240105150526_478x328.jpg",
+      "cat": "wrap",
+      "specs": [
+        [
+          "Voltage",
+          "220V．50HZ single phase"
+        ],
+        [
+          "Power",
+          "Turntable 0.75kw, film carriage0.4 kw , column 0.37 kw"
+        ],
+        [
+          "Wrapping size",
+          "L500-1100*W500-1200mm"
+        ],
+        [
+          "Wrapping height",
+          "500-2000（can be customized）"
+        ],
+        [
+          "Speed",
+          "20-40P/Hour"
+        ],
+        [
+          "Turntable diameter",
+          "1650mm"
+        ],
+        [
+          "Turntable height",
+          "85mm"
+        ],
+        [
+          "Max loading",
+          "2000Kg"
+        ],
+        [
+          "Machine size",
+          "L2650*W1650*H2400mm"
+        ],
+        [
+          "Machine weight",
+          "700kg"
+        ]
+      ]
+    },
+    "1039": {
+      "id": "1039",
+      "url": "https://www.yupack.com/1039.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20240417/3a6f1bf8be8b0a18.jpg_20240417143842_478x328.jpg",
+      "cat": "conv",
+      "specs": [
+        [
+          "Standard",
+          "Standard"
+        ],
+        [
+          "Height (mm)",
+          "H(min)≥150"
+        ],
+        [
+          "Transportation capacity (Kg/m)",
+          "Max ≤150"
+        ],
+        [
+          "Roller mounting",
+          "Hex shaft"
+        ],
+        [
+          "Roller spacing T (mm)",
+          "T≤1/3L(L is the conveying length)"
+        ]
+      ]
+    },
+    "1040": {
+      "id": "1040",
+      "url": "https://www.yupack.com/1040.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20240417/e4d2113fecd45845.jpg_20240417143927_478x328.jpg",
+      "cat": "conv",
+      "specs": [
+        [
+          "Standard",
+          "Descrition"
+        ],
+        [
+          "Curve （°）",
+          "90/60/45/30"
+        ],
+        [
+          "Radius（mm）",
+          "850"
+        ],
+        [
+          "Height (mm)",
+          "H(min)≥340"
+        ],
+        [
+          "inner width(mm)",
+          "350 ≤ B ≤ 800"
+        ],
+        [
+          "Motor power (Kw)",
+          "0.18～0.370.032 (power roller)"
+        ],
+        [
+          "Line speed V (m/min)",
+          "V=20V=25V=32V=40"
+        ],
+        [
+          "Conveyor payload (Kg)",
+          "Max ≤100"
+        ]
+      ]
+    },
+    "1041": {
+      "id": "1041",
+      "url": "https://www.yupack.com/1041.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20240417/5e3ce87cbf1e383a.jpg_20240417143949_478x328.jpg",
+      "cat": "conv",
+      "specs": [
+        [
+          "Standard",
+          "Description"
+        ],
+        [
+          "Curve θ （°）",
+          "90/60/45/30"
+        ],
+        [
+          "Radium R （mm）",
+          "850()"
+        ],
+        [
+          "Height (mm)",
+          "H(min)≥300"
+        ],
+        [
+          "Inner width B (mm)",
+          "350 ≤ B ≤ 800"
+        ],
+        [
+          "Motor power (Kw)",
+          "0.06～0.180.032 (power roller)"
+        ],
+        [
+          "Line speed V (m/min)",
+          "V=20V=25V=32V=55"
+        ],
+        [
+          "Conveyor payload (Kg)",
+          "Max ≤80"
+        ]
+      ]
+    },
+    "1042": {
+      "id": "1042",
+      "url": "https://www.yupack.com/1042.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20240417/27ce81a33ed41657.jpg_20240417144024_478x328.jpg",
+      "cat": "conv",
+      "specs": [
+        [
+          "Standard",
+          "Description"
+        ],
+        [
+          "Length L（mm）",
+          "L=1100or1300≤L≤18000"
+        ],
+        [
+          "Height H (mm)",
+          "H≥470"
+        ],
+        [
+          "Effective width W (mm)",
+          "440、535、630、725、820(420≤W≤1000)"
+        ],
+        [
+          "Incline/decline(°)",
+          "Max 5"
+        ],
+        [
+          "Conveyor speed V(m/min)",
+          "15 ≤ V ≤ 125"
+        ],
+        [
+          "Motor power (Kw)",
+          "0.75、1.5"
+        ],
+        [
+          "Carton weight（Kg/m）",
+          "Max 50"
+        ]
+      ]
+    },
+    "1043": {
+      "id": "1043",
+      "url": "https://www.yupack.com/1043.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20240417/1cc8b7c4bba5f791.jpg_20240417144058_478x328.jpg",
+      "cat": "conv",
+      "specs": [
+        [
+          "Standard",
+          "Standard"
+        ],
+        [
+          "Outer radius （mm）",
+          "1470"
+        ],
+        [
+          "Height (mm)",
+          "H(min)≥450"
+        ],
+        [
+          "Inner width B (mm)",
+          "400 ≤ B ≤ 700"
+        ],
+        [
+          "Motor power (Kw)",
+          "0.75 V ≤50 m/min"
+        ],
+        [
+          "1.1/1.5",
+          "V ＞50 m/min"
+        ],
+        [
+          "Conveyor speed V (m/min)",
+          "V=20-100"
+        ],
+        [
+          "The engine bearing (Kg)",
+          "Max ≤50"
+        ],
+        [
+          "Angle（°）",
+          "30°、60°、90°"
+        ]
+      ]
+    },
+    "1046": {
+      "id": "1046",
+      "url": "https://www.yupack.com/1046.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20240410/d5d8bf3f2ee2ae1e.jpg_20240410145600_478x328.jpg",
+      "cat": "conv",
+      "specs": [
+        [
+          "Standard",
+          "Description"
+        ],
+        [
+          "Roller pitch for wheel P （mm）",
+          "P≥120mm"
+        ],
+        [
+          "Inner width B (mm)",
+          "400 ≤ B ≤ 800"
+        ],
+        [
+          "Min size of carton/box/container",
+          "Min 150×150 (L×W) Flat hard bottom"
+        ],
+        [
+          "Line speed V (m/min)",
+          "35/45"
+        ],
+        [
+          "Sorting capability",
+          "Max 1500 pc/hr"
+        ],
+        [
+          "Motor power(Kw)",
+          "0.12"
+        ],
+        [
+          "Unit carton weight (Kg)",
+          "Max 35"
+        ]
+      ]
+    },
+    "1051": {
+      "id": "1051",
+      "url": "https://www.yupack.com/1051.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20240418/ab7438c602c3ec39.jpg_20240418102355_478x328.jpg",
+      "cat": "conv",
+      "specs": [
+        [
+          "Standard",
+          "Standard"
+        ],
+        [
+          "Length (mm)",
+          "L=Delivery length（ ）+200～300"
+        ],
+        [
+          "Height (mm)",
+          "300 ≤ H ≤ 2500"
+        ],
+        [
+          "Width (mm)",
+          "300 ≤ W≤ 800"
+        ],
+        [
+          "Boost motor power (Kw)",
+          "0.75 H≤1500 mm"
+        ],
+        [
+          "1.1/1.5",
+          "H ＞1500 mm"
+        ],
+        [
+          "Lifting speed V (m/min)",
+          "Max 30"
+        ],
+        [
+          "Promote efficiency (pallet/h)",
+          "Consulting department"
+        ],
+        [
+          "Machine load (Kg)",
+          "Max 50Kg"
+        ]
+      ]
+    },
+    "1057": {
+      "id": "1057",
+      "url": "https://www.yupack.com/1057.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20240418/357f7a515213ca79.jpg_20240418102416_478x328.jpg",
+      "cat": "conv",
+      "specs": [
+        [
+          "Name",
+          "Description"
+        ],
+        [
+          "Delivery length L (mm)",
+          "L=220～550"
+        ],
+        [
+          "Conveying width W (mm)",
+          "W≤500"
+        ],
+        [
+          "Transport height H (mm)",
+          "H≤L"
+        ],
+        [
+          "The mouth height D（mm）",
+          "D≥750（Or dig a hole）"
+        ],
+        [
+          "Movements itinerary E（m）",
+          "E≤12"
+        ],
+        [
+          "Length of inlet and outlet conveyors F（mm）",
+          "F=640"
+        ],
+        [
+          "The device width L1 (mm)",
+          "W1=1071"
+        ],
+        [
+          "The device width L2 (mm)",
+          "W2=1360"
+        ],
+        [
+          "Equipment is highly H (mm)",
+          "L=E+1200"
+        ],
+        [
+          "Floor opening size （mm）",
+          "1200*1270"
+        ],
+        [
+          "Motor power P (kw)",
+          "E≤4m，P=0.37B；4m＜E≤6m，P=0.55B；6m＜E≤8m，P=0.75B；8m＜E≤10m，P=1.1B；10m＜E≤12m，P=1.5B；"
+        ],
+        [
+          "Conveyor speed V（m/min）",
+          "V≤30"
+        ],
+        [
+          "Load per fork plate chain M(Kg)",
+          "M≤50"
+        ]
+      ]
+    },
+    "1059": {
+      "id": "1059",
+      "url": "https://www.yupack.com/1059.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20240418/ddcaaea4a7beffe8.jpg_20240418102454_478x328.jpg",
+      "cat": "conv",
+      "specs": [
+        [
+          "Standard",
+          "Standard"
+        ],
+        [
+          "Angle（mm）",
+          "30°"
+        ],
+        [
+          "Height (mm)",
+          "H(min)≥300"
+        ],
+        [
+          "Inner width B (mm)",
+          "400 ≤ B ≤ 800"
+        ],
+        [
+          "Motor power (Kw)",
+          "0.75 V ≤35 m/min"
+        ],
+        [
+          "1.1/1.5",
+          "V ＞35 m/min"
+        ],
+        [
+          "Conveyor speed V (m/min)",
+          "V=20-100"
+        ],
+        [
+          "Machine load (Kg)",
+          "Max ≤50"
+        ]
+      ]
+    },
+    "1060": {
+      "id": "1060",
+      "url": "https://www.yupack.com/1060.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20240418/c8a4c730cd3aa69b.jpg_20240418102518_478x328.jpg",
+      "cat": "conv",
+      "specs": [
+        [
+          "Standard",
+          "Descrition"
+        ],
+        [
+          "Length （mm）",
+          "L ≤ 4000 (max by motor)L ≤ 2500 (max by power roller)"
+        ],
+        [
+          "Height (mm)",
+          "H(min)300"
+        ],
+        [
+          "Inner width B (mm)",
+          "350 ≤ B ≤ 800"
+        ],
+        [
+          "Motor power (Kw)",
+          "0.06～0.250.032 (power roller)"
+        ],
+        [
+          "Line speed V (m/min)",
+          "V=20V=25V=32V=55"
+        ],
+        [
+          "Conveyor payload (Kg)",
+          "Max ≤200"
+        ],
+        [
+          "Carton weight（Kg/m）",
+          "Max ≤50"
+        ]
+      ]
+    },
+    "1062": {
+      "id": "1062",
+      "url": "https://www.yupack.com/1062.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20240418/8de905dec6586ece.jpg_20240418102847_478x328.jpg",
+      "cat": "conv",
+      "specs": [
+        [
+          "Standard",
+          "Description"
+        ],
+        [
+          "Length （mm）",
+          "980 ≤ L ≤ 6050"
+        ],
+        [
+          "Height (mm)",
+          "H(min)≥450"
+        ],
+        [
+          "Distance between two chains B (mm)",
+          "650 ≤ B ≤ 1750（SEW motor）；550 ≤ B ≤ 1750（Taiwan motor）"
+        ],
+        [
+          "Motor power (Kw)",
+          "0.75～1.5"
+        ],
+        [
+          "Line speed V (m/min)",
+          "V=12V=16V=18"
+        ],
+        [
+          "Conveyor payload (Kg)",
+          "Max ≤1500Kg"
+        ],
+        [
+          "Pallet payload（Kg）",
+          "Max ≤1200Kg"
+        ],
+        [
+          "Pallet base feet width (mm)",
+          "Min ≥70"
+        ]
+      ]
+    },
+    "1063": {
+      "id": "1063",
+      "url": "https://www.yupack.com/1063.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20240418/cf97344b00d916b3.jpg_20240418102907_478x328.jpg",
+      "cat": "conv",
+      "specs": [
+        [
+          "Standard",
+          "Description"
+        ],
+        [
+          "Length （mm）",
+          "850 ≤ L ≤ 8000"
+        ],
+        [
+          "Height (mm)",
+          "H(min)≥380"
+        ],
+        [
+          "Inner width B (mm)",
+          "620 ≤ B ≤ 1520"
+        ],
+        [
+          "Motor power P (kw)",
+          "0.37～0.75"
+        ],
+        [
+          "Line speed V (m/min)",
+          "V=12V=16V=18"
+        ],
+        [
+          "Conveyor payload (Kg)",
+          "Max ≤1500Kg"
+        ],
+        [
+          "Pallet payload （Kg）",
+          "Max ≤1200Kg"
+        ]
+      ]
+    },
+    "1064": {
+      "id": "1064",
+      "url": "https://www.yupack.com/1064.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20240418/a757d39617878f28.jpg_20240418110328_478x328.jpg",
+      "cat": "conv",
+      "specs": [
+        [
+          "Standard",
+          "Standard"
+        ],
+        [
+          "Length（mm）",
+          "L = matching chain machine center distance B - 100"
+        ],
+        [
+          "Height (mm)",
+          "H(min)≥550(with chain machine H=600)"
+        ],
+        [
+          "Chain pitch B (mm)",
+          "650 ≤ B ≤ 1750（SEW motor）550 ≤ B ≤ 1750（city motor）"
+        ],
+        [
+          "Motor power P (kw)",
+          "Lifting :0.75 ~ 1.5Conveying :0.75 ~ 1.5"
+        ],
+        [
+          "Line speed V (m/min)",
+          "V=12V=16V=18"
+        ],
+        [
+          "Lifting time (S)",
+          "2.3(single stroke)"
+        ],
+        [
+          "Standard load (Kg)",
+          "Max ≤1000Kg"
+        ],
+        [
+          "Maximum load (Kg)",
+          "Max ≤1500Kg"
+        ]
+      ]
+    },
+    "1066": {
+      "id": "1066",
+      "url": "https://www.yupack.com/1066.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20240418/d93eff32366fa63d.jpg_20240418102957_478x328.jpg",
+      "cat": "conv",
+      "specs": [
+        [
+          "Standard",
+          "Description"
+        ],
+        [
+          "Diameter Φ (mm)",
+          "For 1000*1200 palletFor 1200*1200pallet"
+        ],
+        [
+          "Height (mm)",
+          "H(min)≥550"
+        ],
+        [
+          "Inner width B (mm)",
+          "620 ≤ B ≤ 1520"
+        ],
+        [
+          "Motor power P (kw)",
+          "Transfer：0.37～0.75Rotation：0.37～0.55"
+        ],
+        [
+          "Line speedV (m/min)",
+          "V=12V=16V=18"
+        ],
+        [
+          "Rotation time （S）",
+          "2.5(90°Single trip)"
+        ],
+        [
+          "Max payload(Kg)",
+          "Max ≤1500Kg"
+        ]
+      ]
+    },
+    "1067": {
+      "id": "1067",
+      "url": "https://www.yupack.com/1067.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20240418/60fd4fbdbabe18d6.jpg_20240418104104_478x328.jpg",
+      "cat": "conv",
+      "specs": [
+        [
+          "Standard",
+          "Description"
+        ],
+        [
+          "Diameter Φ (mm)",
+          "For 1000*1200 palletFor 1200*1200pallet"
+        ],
+        [
+          "Height (mm)",
+          "H(min)≥650"
+        ],
+        [
+          "Distance between two chains B (mm)",
+          "650 ≤ B ≤ 1750（SEW motor）；550 ≤ B ≤ 1750（Taiwan motor）"
+        ],
+        [
+          "Motor power P (kw)",
+          "Transfer：0.75～1.5Rotation：0.37～0.55"
+        ],
+        [
+          "Line speed V (m/min)",
+          "V=12V=16V=18"
+        ],
+        [
+          "Conveyor payload(Kg)",
+          "Max ≤1500Kg"
+        ],
+        [
+          "Pallet payload（Kg）",
+          "Max ≤1200Kg"
+        ],
+        [
+          "Pallet base feet width (mm)",
+          "Min ≥100"
+        ]
+      ]
+    },
+    "1068": {
+      "id": "1068",
+      "url": "https://www.yupack.com/1068.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20240418/27fa73b27b95039c.jpg_20240418104139_478x328.jpg",
+      "cat": "conv",
+      "specs": [
+        [
+          "Standard",
+          "Standard"
+        ],
+        [
+          "Body length L（mm）",
+          "L = matching chain machine center distance B - 100"
+        ],
+        [
+          "Height (mm)",
+          "H(min) ≥580(with chain machine H=600)"
+        ],
+        [
+          "Center distance B of jacking arm B (mm)",
+          "350 ≤ B ≤ 2000；"
+        ],
+        [
+          "Motor power P (kw)",
+          "Lifting :1.5 ~ 3"
+        ],
+        [
+          "Lifting time (S)",
+          "five(single stroke)"
+        ],
+        [
+          "Standard load (Kg)",
+          "Max ≤1000Kg"
+        ],
+        [
+          "Maximum load (Kg)",
+          "Max ≤1500Kg"
+        ]
+      ]
+    },
+    "1069": {
+      "id": "1069",
+      "url": "https://www.yupack.com/1069.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20240418/5bfa865c0a485578.jpg_20240418104202_478x328.jpg",
+      "cat": "conv",
+      "specs": [
+        [
+          "Name",
+          "Description"
+        ],
+        [
+          "Track spacing WG(mm)",
+          "WG = 1000 (standard spacing), non-standard length of a section of each side end"
+        ],
+        [
+          "Pull rod spacing G (mm)",
+          "At both ends of G0 = 500, G = 2000 uniform distribution, terminal shall not exceed 2000"
+        ],
+        [
+          "Conveyor width B or W (mm)",
+          "850≤B≤1050，1020≤W≤1220"
+        ],
+        [
+          "Support spacing Z (mm)",
+          "Z0=300 at both ends, Z=800 evenly distributed, the final section shall not exceed 800"
+        ],
+        [
+          "Pallet length L0(mm)",
+          "If L0 1200 or less (L0 > 1200, track spacing to non-standard)"
+        ],
+        [
+          "Tray width W0(mm)",
+          "1000≤ W0≤1200 or less or less (other values corresponding to modify the bottom frame and leg)"
+        ],
+        [
+          "Width of tray foot D(mm)",
+          "D≥80 (for chain conveyor)"
+        ],
+        [
+          "Conveyor length LS(mm)",
+          "LS≥WG+500"
+        ],
+        [
+          "Safe distance between docking devices K (mm)",
+          "10≤K≤15"
+        ],
+        [
+          "Conveying height H0(mm)",
+          "H0≤800 (inspect the anti-dumping ability of the goods)"
+        ],
+        [
+          "Lower jaw height H (mm)",
+          "542≤H(chain)≤850，535≤H(roller)≤850；"
+        ],
+        [
+          "Equipment general S (mm)",
+          "S=S1+S2=2286"
+        ],
+        [
+          "Limit safe cut-off distance S0 (mm)",
+          "S0=500+Switch mounting position≈750"
+        ]
+      ]
+    },
+    "1072": {
+      "id": "1072",
+      "url": "https://www.yupack.com/1072.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20240418/2ad65bf46fd43641.jpg_20240418104250_478x328.jpg",
+      "cat": "conv",
+      "specs": [
+        [
+          "Standard",
+          "Standard"
+        ],
+        [
+          "Body length L （mm）",
+          "L=Pallet length+150"
+        ],
+        [
+          "Butt height H (mm)",
+          "H(min)≥80"
+        ],
+        [
+          "Guide the wide B (mm)",
+          "620 ≤ B ≤ 1620"
+        ],
+        [
+          "Motor powerP (kw)",
+          "lift:3～5.5delivery:0.37～0.75"
+        ],
+        [
+          "Conveyor speed V (m/min)",
+          "V=12V=16V=18"
+        ],
+        [
+          "Lifting speed（m/min）",
+          "10"
+        ],
+        [
+          "The standard load （Kg）",
+          "Max ≤1000Kg"
+        ],
+        [
+          "Maximum load (Kg)",
+          "Max ≤1500Kg"
+        ]
+      ]
+    },
+    "1073": {
+      "id": "1073",
+      "url": "https://www.yupack.com/1073.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20240418/42d5a6f9dd77ac53.jpg_20240418105440_478x328.jpg",
+      "cat": "conv",
+      "specs": [
+        [
+          "Standard",
+          "Standard"
+        ],
+        [
+          "Length（mm）",
+          "750 ≤ L ≤ 3000"
+        ],
+        [
+          "Height (mm)",
+          "H(min)≥80"
+        ],
+        [
+          "Inner width B (mm)",
+          "620 ≤ B ≤ 1620"
+        ],
+        [
+          "Motor power P (kw)",
+          "0.37～0.75"
+        ],
+        [
+          "Delivery speed V (m/min)",
+          "V=12V=16V=18"
+        ],
+        [
+          "Machine load (Kg)",
+          "Max ≤1500Kg"
+        ],
+        [
+          "Carrier load （Kg）",
+          "Max ≤1200Kg"
+        ]
+      ]
+    },
+    "1074": {
+      "id": "1074",
+      "url": "https://www.yupack.com/1074.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20240418/440aec31912c0f5e.jpg_20240418105547_478x328.jpg",
+      "cat": "conv",
+      "specs": [
+        [
+          "Standard",
+          "Description"
+        ],
+        [
+          "Length （mm）",
+          "L=B(Chain conveyor)-100"
+        ],
+        [
+          "Height (mm)",
+          "H(min)≥450"
+        ],
+        [
+          "Inner width B (mm)",
+          "770 ≤ B ≤ 1520（SEW motor）；670 ≤ B ≤ 1520（Taiwan motor）"
+        ],
+        [
+          "Motor power P (kw)",
+          "Lift:0.75～1.5Transfer:0.37～0.75"
+        ],
+        [
+          "Line speed V (m/min)",
+          "V=12V=16V=18"
+        ],
+        [
+          "Lifting time （S）",
+          "2.3 (单行程 Single trip)"
+        ],
+        [
+          "Max payload (Kg)",
+          "Max ≤1500Kg"
+        ]
+      ]
+    },
+    "1079": {
+      "id": "1079",
+      "url": "https://www.yupack.com/1079.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20251114/c484ef6b27b036e9.jpg_20251114142851_478x328.jpg",
+      "cat": "wrap",
+      "specs": [
+        [
+          "model",
+          "LR1800F AP207CR"
+        ],
+        [
+          "power supply",
+          "380V. 50HZ．3P 380V. 50HZ．3P"
+        ],
+        [
+          "power",
+          "2.45kW 1.75kW"
+        ],
+        [
+          "Packaging specifications",
+          "L500-1200mm*W500-1100mm *H500-1800mm"
+        ],
+        [
+          "Packaging efficiency",
+          "30-40 pallets/hour"
+        ],
+        [
+          "Machine size",
+          "L4200*W3200*H3500mm"
+        ]
+      ]
+    },
+    "1080": {
+      "id": "1080",
+      "url": "https://www.yupack.com/1080.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20251114/63c03331a92216f3.jpg_20251114100036_478x328.jpg",
+      "cat": "wrap",
+      "specs": [
+        [
+          "model",
+          "YPFG-1800"
+        ],
+        [
+          "power supply",
+          "220v 50hz 1p"
+        ],
+        [
+          "power",
+          "800W"
+        ],
+        [
+          "spinning speed",
+          "0-10r/min"
+        ],
+        [
+          "Winding method",
+          "Swing arm type"
+        ],
+        [
+          "Effective package size",
+          "L(<1200mm)×W(<1200mm)×H(<1800mm)"
+        ],
+        [
+          "Machine size",
+          "L2080mm×W1631mm×H2849mm"
+        ],
+        [
+          "Machine weight",
+          "150kg"
+        ],
+        [
+          "Usage environment",
+          "Relative humidity ≤90% , temperature -10℃-40℃"
+        ],
+        [
+          "Lubricating materials",
+          "General purpose grease No. 0"
+        ]
+      ]
+    },
+    "1082": {
+      "id": "1082",
+      "url": "https://www.yupack.com/1082.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20251114/7799_99c17301.jpg_20251114160353_478x328.jpg",
+      "cat": "wrap",
+      "specs": [
+        [
+          "model",
+          "YP-YD1800"
+        ],
+        [
+          "power supply",
+          "AC220V 50hz 1p"
+        ],
+        [
+          "power",
+          "1KW"
+        ],
+        [
+          "Packaging efficiency",
+          "20-40 pallets/hour"
+        ],
+        [
+          "Cantilever speed",
+          "0-12rpm"
+        ],
+        [
+          "Package Size",
+          "(500-1100)mm×(500-1100)mm×1500mm"
+        ],
+        [
+          "Total Weight",
+          "380kg380kg"
+        ]
+      ]
+    },
+    "1083": {
+      "id": "1083",
+      "url": "https://www.yupack.com/1083.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20251027/2e62ba63b348e4ad.png_20251027154652_478x328.jpg",
+      "cat": "pallet",
+      "specs": [
+        [
+          "model",
+          "XFD-MD20"
+        ],
+        [
+          "power supply",
+          "220V. 50HZ. 1P"
+        ],
+        [
+          "power",
+          "2.95kW"
+        ],
+        [
+          "Maximum wingspan",
+          "1600mm"
+        ],
+        [
+          "maximum load",
+          "20kg"
+        ],
+        [
+          "Palletizing height",
+          "2100mm"
+        ],
+        [
+          "Packaging efficiency",
+          "8-12 boxes/minute"
+        ]
+      ]
+    },
+    "1084": {
+      "id": "1084",
+      "url": "https://www.yupack.com/1084.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20251027/b8139d453b824bb2.png_20251027160825_478x328.jpg",
+      "cat": "pallet",
+      "specs": [
+        [
+          "Machine model/Model",
+          "YPK-JDB20"
+        ],
+        [
+          "Power supply/Power supply",
+          "380V. 50HZ. 3P 5kw"
+        ],
+        [
+          "Air source/Air pressure",
+          "0.5-0.7MPA"
+        ],
+        [
+          "Machine size/Machine size",
+          "R2000*H4000mm"
+        ],
+        [
+          "Mechanical arm load/Mechanical arm burden",
+          "<100kg"
+        ],
+        [
+          "Pallet size/Pallet size",
+          "1000-1200*1000-1200*120-150mm"
+        ],
+        [
+          "Palletizing speed/Packing speed",
+          "8-10p/min"
+        ],
+        [
+          "Palletizing height",
+          "1800mm (including pallet placed on the ground/from the ground)"
+        ]
+      ]
+    },
+    "1085": {
+      "id": "1085",
+      "url": "https://www.yupack.com/1085.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20240422/88f627be369d08fd.jpg_20240422152547_478x328.jpg",
+      "cat": "pallet",
+      "specs": [
+        [
+          "model",
+          "YPK-ZB16"
+        ],
+        [
+          "power supply",
+          "380V 50Hz 3P"
+        ],
+        [
+          "Power",
+          "5.5 KW"
+        ],
+        [
+          "Palletizing height",
+          "1600mm"
+        ],
+        [
+          "Palletizing efficiency",
+          "400 times/hour"
+        ],
+        [
+          "production capacity",
+          "15-25pcs/min"
+        ],
+        [
+          "air pressure",
+          "0.4-0.6Mpa"
+        ]
+      ]
+    },
+    "1086": {
+      "id": "1086",
+      "url": "https://www.yupack.com/1086.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20251028/10406d60b60fc017.png_20251028094525_478x328.jpg",
+      "cat": "strap",
+      "specs": [
+        [
+          "name",
+          "Pallet threading and baling machine MH-105C-Y Fully automatic winding machine T1800FZ"
+        ],
+        [
+          "power supply",
+          "380v 50hz 3p"
+        ],
+        [
+          "power",
+          "1.5KW 2kw"
+        ],
+        [
+          "Suitable for packing tape",
+          "PP or PET \\"
+        ],
+        [
+          "Use film",
+          "\\ LLDPE machine stretch film"
+        ],
+        [
+          "Suitable for packaging size",
+          "customizable"
+        ],
+        [
+          "Packing method",
+          "Both parallel bundling and well-shaped bundling are available \\"
+        ]
+      ]
+    },
+    "1087": {
+      "id": "1087",
+      "url": "https://www.yupack.com/1087.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20251114/fd008a3afcb2bbd7.jpg_20251114105233_478x328.jpg",
+      "cat": "strap",
+      "specs": [
+        [
+          "model",
+          "MH-105C machine mobile"
+        ],
+        [
+          "Bundling force",
+          "250kg"
+        ],
+        [
+          "Bundling speed",
+          "25 seconds/channel"
+        ],
+        [
+          "Frame size",
+          "Customized according to customer pallet size"
+        ],
+        [
+          "Applicable packing belt width",
+          "13-16mm"
+        ],
+        [
+          "Packing strap material",
+          "PP,PET"
+        ],
+        [
+          "power supply",
+          "380V. 50HZ 1.5kw"
+        ],
+        [
+          "Machine size",
+          "custom made"
+        ],
+        [
+          "Machine weight",
+          "420kg"
+        ]
+      ]
+    },
+    "2276": {
+      "id": "2276",
+      "url": "https://www.yupack.com/2276.html",
+      "title": "Flow Wrapping Machine",
+      "img": "https://www.yupack.com/data/thumb/res/en/20250630/7de9dd80c9948cc7.jpg_20250630165628_1920x0.jpg",
+      "cat": "other"
+    },
+    "2277": {
+      "id": "2277",
+      "url": "https://www.yupack.com/2277.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20250703/1df07f9a851d7ea8.jpg_20250703104525_478x328.jpg",
+      "cat": "wrap"
+    },
+    "2286": {
+      "id": "2286",
+      "url": "https://www.yupack.com/2286.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20250708/985d2fa8f311fd36.jpg_20250708161911_478x328.jpg",
+      "cat": "erect"
+    },
+    "2287": {
+      "id": "2287",
+      "url": "https://www.yupack.com/2287.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20260423/2c5084085859d729.jpg_20260423133131_478x328.jpg",
+      "cat": "erect"
+    },
+    "2291": {
+      "id": "2291",
+      "url": "https://www.yupack.com/2291.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20250709/3daa91be80a28fc5.jpg_20250709160524_478x328.jpg",
+      "cat": "pack"
+    },
+    "2292": {
+      "id": "2292",
+      "url": "https://www.yupack.com/2292.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20250709/74ac4fa0dda6c0d8.jpg_20250709161338_478x328.jpg",
+      "cat": "pack"
+    },
+    "2293": {
+      "id": "2293",
+      "url": "https://www.yupack.com/2293.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20250710/426b2892699cb200.jpg_20250710101252_478x328.jpg",
+      "cat": "pack"
+    },
+    "2294": {
+      "id": "2294",
+      "url": "https://www.yupack.com/2294.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20250710/21f3411a0cbf64a8.jpg_20250710101702_478x328.jpg",
+      "cat": "pack"
+    },
+    "2295": {
+      "id": "2295",
+      "url": "https://www.yupack.com/2295.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20251114/9da483b655377e4d.jpg_20251114135605_478x328.jpg",
+      "cat": "strap"
+    },
+    "2296": {
+      "id": "2296",
+      "url": "https://www.yupack.com/2296.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20251114/4c1b1e5e38f5e5eb.jpg_20251114142002_478x328.jpg",
+      "cat": "strap"
+    },
+    "2297": {
+      "id": "2297",
+      "url": "https://www.yupack.com/2297.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20251027/0033_a3d1019a.png_20251027153628_478x328.jpg",
+      "cat": "pallet"
+    },
+    "2298": {
+      "id": "2298",
+      "url": "https://www.yupack.com/2298.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20251027/001_e56dea04.png_20251027152707_478x328.jpg",
+      "cat": "pallet"
+    },
+    "2299": {
+      "id": "2299",
+      "url": "https://www.yupack.com/2299.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20250710/7ae9f8e9d5c31369.jpg_20250710111400_478x328.jpg",
+      "cat": "cart"
+    },
+    "2302": {
+      "id": "2302",
+      "url": "https://www.yupack.com/2302.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20250714/c7c9fde200b5e115.jpg_20250714112300_478x328.jpg",
+      "cat": "conv"
+    },
+    "2303": {
+      "id": "2303",
+      "url": "https://www.yupack.com/2303.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20250714/ee95b20876a9ab3d.jpg_20250714112457_478x328.jpg",
+      "cat": "conv"
+    },
+    "2304": {
+      "id": "2304",
+      "url": "https://www.yupack.com/2304.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20250714/068e87af7123ca6f.jpg_20250714112623_478x328.jpg",
+      "cat": "conv"
+    },
+    "2305": {
+      "id": "2305",
+      "url": "https://www.yupack.com/2305.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20250714/d1b03300463d5609.jpg_20250714112847_478x328.jpg",
+      "cat": "conv"
+    },
+    "2306": {
+      "id": "2306",
+      "url": "https://www.yupack.com/2306.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20250714/f8b912209c54ff3c.jpg_20250714113011_478x328.jpg",
+      "cat": "conv"
+    },
+    "2307": {
+      "id": "2307",
+      "url": "https://www.yupack.com/2307.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20250714/952b3925fee3de11.jpg_20250714113225_478x328.jpg",
+      "cat": "conv"
+    },
+    "2308": {
+      "id": "2308",
+      "url": "https://www.yupack.com/2308.html",
+      "title": "",
+      "img": "https://www.yupack.com/data/thumb/res/en/20250714/2fa9d70764061495.jpg_20250714113326_478x328.jpg",
+      "cat": "conv"
+    }
+  }
+}
